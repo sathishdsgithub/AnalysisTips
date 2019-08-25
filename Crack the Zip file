@@ -15,6 +15,35 @@ $ unzip -P xxx MRIS.zip
 
 Archive:  MRIS.zip
   inflating: info_08.15.doc
+ =================================================================================================================== 
+  OfficeMalScanner>OfficeMalScanner.exe ..\..\info_08
+.15.doc info
+
++------------------------------------------+
+|           OfficeMalScanner v0.61         |
+|  Frank Boldewin / www.reconstructer.org  |
++------------------------------------------+
+
+[*] INFO mode selected
+[*] Opening file ..\..\info_08.15.doc
+[*] Filesize is 107520 (0x1a400) Bytes
+[*] Ms Office OLE2 Compound Format document detected
+[*] Format type Winword
+
+-----------------------------------------
+[Scanning for VB-code in INFO_08.15.DOC]
+-----------------------------------------
+a8q6cA
+aKVwYGaC
+alJ6CoiF
+aElSGoL2t
+ThisDocument
+-----------------------------------------------------------------------------
+                VB-MACRO CODE WAS FOUND INSIDE THIS FILE!
+               The decompressed Macro code was stored here:
+
+------> C:\Users\Jones\Desktop\Tools\OfficeMalScanner\INFO_08.15.DOC-Macros
+-----------------------------------------------------------------------------
 ===================================================================================================================  
   $ ../../oledump/oledump.py info_08.15.doc 
  1:      114 '\x01CompObj'
@@ -1190,3 +1219,19 @@ Tahoma
 +------------+----------------------+-----------------------------------------+
 
 c:\Windows\System32\wbem\wmic process list /format:"arJzRsLeT.xsl"   
+
+
+=================================================================================================
+
+You can use windbg to monitor the VB Macro execution
+
+Attach the winword.exe process to windbg
+bp CreateProcessW
+g
+du poi(esp+4)
+du poi(esp+8)
+
+until you get the final output of the macro code execution 
+
+
+
