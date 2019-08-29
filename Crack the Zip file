@@ -521,4 +521,9 @@ Extract the memory dump using FTK memory extraction
   632  vol.py --profile=Win7SP1x64 -f memdump.mem procdump -p 1652 --dump-dir .
   635  vol.py --profile=Win7SP1x64 -f memdump.mem memdump -p 1652 --dump-dir .
   
-  
+  641  strings  1652.dmp | grep -Fi "109.196.164.79" -C 5
+  642  strings  1652.dmp | grep -Fi ".com" -C 5
+  643  strings  1652.dmp | grep -Fi ".com" -C 5 | less
+  644  strings  1652.dmp | grep -Fi "npkf3" -C 
+  645  strings  1652.dmp | grep -Fi "npkf3" -C 5
+
