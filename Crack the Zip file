@@ -527,3 +527,28 @@ Extract the memory dump using FTK memory extraction
   644  strings  1652.dmp | grep -Fi "npkf3" -C 
   645  strings  1652.dmp | grep -Fi "npkf3" -C 5
 
+# What type of dump am I going to analyze ?
+$ volatility -f MyDump.dmp imageinfo
+
+# Which process are running
+$ volatility -f MyDump.dmp --profile=MyProfile pslist
+$ volatility -f MyDump.dmp --profile=MyProfile pstree
+$ volatility -f MyDump.dmp --profile=MyProfile psxview
+
+# List open TCP/UDP connections
+$ volatility -f MyDump.dmp --profile=MyProfile connscan
+$ volatility -f MyDump.dmp --profile=MyProfile sockets
+$ volatility -f MyDump.dmp --profile=MyProfile netscan
+
+# What commands were lastly run on the computer
+$ volatility -f MyDump.dmp --profile=MyProfile cmdline
+$ volatility -f MyDump.dmp --profile=MyProfile consoles
+$ volatility -f MyDump.dmp --profile=MyProfile cmdscan
+
+# Dump processes exe and memory 
+$ volatility -f MyDump.dmp --profile=MyProfile procdump -p MyPid --dump-dir .
+$ volatility -f MyDump.dmp --profile=MyProfile memdump -p MyPid --dump-dir .
+
+# Hive and Registry key values
+$ volatility -f MyDump.dmp --profile=MyProfile hivelist
+$ volatility -f MyDump.dmp --profile=MyProfile printkey -K "MyPath"
