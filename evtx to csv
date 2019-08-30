@@ -1,0 +1,7 @@
+Powershell command to convert multiple evtx to csv file
+
+ C:\> $LogFullPath = "C:\Users\user01\Desktop\evtxsample\*.evtx"
+ C:\> $CSVFileName = "File.csv"
+ C:\> get-winevent -Path $LogFullPath | select * -Exclude Message | export-csv $CSVFileName -useculture
+ 
+ 
